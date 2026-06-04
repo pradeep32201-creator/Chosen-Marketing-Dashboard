@@ -1,0 +1,354 @@
+order_id,date,product,quantity,revenue,utm_source,utm_medium,utm_campaign,device,city
+1001,2025-02-01,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Lookalike 2% — cold audience,desktop,Pune
+1002,2025-02-01,CHOSEN Retinol Night Cream,1,1599,organic,organic,,mobile,Mumbai
+1003,2025-02-02,CHOSEN Retinol Night Cream,1,1599,meta,paid_social,Dermat recommended — UGC,mobile,Pune
+1004,2025-02-02,CHOSEN AHA BHA Cleanser,1,649,organic,organic,,desktop,Kolkata
+1005,2025-02-03,CHOSEN Niacinamide 10%,1,899,organic,organic,,mobile,Delhi
+1006,2025-02-03,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Lookalike 2% — cold audience,mobile,Kolkata
+1007,2025-02-04,CHOSEN Hydra Boost Moisturiser,1,999,google,cpc,Brand search — CHOSEN,mobile,Hyderabad
+1008,2025-02-04,CHOSEN Hydra Boost Moisturiser,1,999,meta,paid_social,Lookalike 2% — cold audience,desktop,Chennai
+1009,2025-02-04,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Skin quiz — awareness,desktop,Mumbai
+1010,2025-02-04,CHOSEN Vitamin C Serum,1,1299,organic,organic,,mobile,Kolkata
+1011,2025-02-05,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Lookalike 2% — cold audience,desktop,Pune
+1012,2025-02-05,CHOSEN Retinol Night Cream,2,3198,google,cpc,Google shopping — all products,mobile,Hyderabad
+1013,2025-02-05,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Dermat recommended — UGC,desktop,Kolkata
+1014,2025-02-05,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Skin quiz — awareness,mobile,Chennai
+1015,2025-02-06,CHOSEN AHA BHA Cleanser,2,1298,meta,paid_social,Interest — skincare routine,desktop,Delhi
+1016,2025-02-06,CHOSEN Hydra Boost Moisturiser,1,999,meta,paid_social,Retargeting — cart abandonment,mobile,Chennai
+1017,2025-02-06,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Dermat recommended — UGC,tablet,Delhi
+1018,2025-02-06,CHOSEN Vitamin C Serum,2,2598,google,cpc,Brand search — CHOSEN,mobile,Delhi
+1019,2025-02-07,CHOSEN AHA BHA Cleanser,1,649,google,cpc,Remarketing — display,mobile,Bangalore
+1020,2025-02-07,CHOSEN Vitamin C Serum,1,1299,direct,none,,mobile,Chennai
+1021,2025-02-07,CHOSEN Hydra Boost Moisturiser,1,999,organic,organic,,mobile,Delhi
+1022,2025-02-07,CHOSEN Retinol Night Cream,2,3198,google,cpc,Competitor keywords,mobile,Mumbai
+1023,2025-02-07,CHOSEN SPF 50 Sunscreen,2,1498,organic,organic,,mobile,Delhi
+1024,2025-02-08,CHOSEN Retinol Night Cream,3,4797,meta,paid_social,Retargeting — cart abandonment,desktop,Mumbai
+1025,2025-02-08,CHOSEN Vitamin C Serum,1,1299,google,cpc,Remarketing — display,mobile,Kolkata
+1026,2025-02-08,CHOSEN Niacinamide 10%,1,899,organic,organic,,desktop,Mumbai
+1027,2025-02-09,CHOSEN Vitamin C Serum,3,3897,organic,organic,,mobile,Delhi
+1028,2025-02-09,CHOSEN Retinol Night Cream,1,1599,meta,paid_social,Interest — skincare routine,mobile,Chennai
+1029,2025-02-10,CHOSEN Retinol Night Cream,2,3198,direct,none,,desktop,Pune
+1030,2025-02-10,CHOSEN AHA BHA Cleanser,2,1298,meta,paid_social,Lookalike 2% — cold audience,mobile,Delhi
+1031,2025-02-10,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Lookalike 2% — cold audience,mobile,Delhi
+1032,2025-02-10,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Skin quiz — awareness,mobile,Bangalore
+1033,2025-02-10,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Retargeting — cart abandonment,mobile,Delhi
+1034,2025-02-11,CHOSEN AHA BHA Cleanser,2,1298,google,cpc,Google shopping — all products,mobile,Mumbai
+1035,2025-02-11,CHOSEN AHA BHA Cleanser,1,649,google,cpc,Competitor keywords,desktop,Mumbai
+1036,2025-02-11,CHOSEN Vitamin C Serum,1,1299,google,cpc,Brand search — CHOSEN,mobile,Kolkata
+1037,2025-02-11,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Retargeting — cart abandonment,mobile,Delhi
+1038,2025-02-11,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Retargeting — cart abandonment,desktop,Chennai
+1039,2025-02-11,CHOSEN Vitamin C Serum,3,3897,meta,paid_social,Dermat recommended — UGC,desktop,Kolkata
+1040,2025-02-12,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Interest — skincare routine,mobile,Mumbai
+1041,2025-02-12,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Skin quiz — awareness,desktop,Hyderabad
+1042,2025-02-12,CHOSEN Hydra Boost Moisturiser,2,1998,meta,paid_social,Dermat recommended — UGC,mobile,Bangalore
+1043,2025-02-13,CHOSEN Retinol Night Cream,2,3198,direct,none,,mobile,Bangalore
+1044,2025-02-13,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Dermat recommended — UGC,desktop,Delhi
+1045,2025-02-13,CHOSEN Vitamin C Serum,2,2598,meta,paid_social,Dermat recommended — UGC,mobile,Mumbai
+1046,2025-02-14,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Dermat recommended — UGC,mobile,Mumbai
+1047,2025-02-14,CHOSEN Retinol Night Cream,1,1599,meta,paid_social,Dermat recommended — UGC,desktop,Delhi
+1048,2025-02-14,CHOSEN Niacinamide 10%,1,899,google,cpc,Competitor keywords,mobile,Pune
+1049,2025-02-15,CHOSEN Vitamin C Serum,1,1299,google,cpc,Brand search — CHOSEN,tablet,Mumbai
+1050,2025-02-15,CHOSEN Retinol Night Cream,1,1599,meta,paid_social,Retargeting — cart abandonment,desktop,Mumbai
+1051,2025-02-15,CHOSEN SPF 50 Sunscreen,1,749,organic,organic,,mobile,Chennai
+1052,2025-02-15,CHOSEN Retinol Night Cream,3,4797,organic,organic,,desktop,Chennai
+1053,2025-02-16,CHOSEN Hydra Boost Moisturiser,1,999,google,cpc,Competitor keywords,desktop,Bangalore
+1054,2025-02-16,CHOSEN Hydra Boost Moisturiser,1,999,meta,paid_social,Skin quiz — awareness,mobile,Chennai
+1055,2025-02-17,CHOSEN Niacinamide 10%,1,899,organic,organic,,desktop,Chennai
+1056,2025-02-17,CHOSEN Vitamin C Serum,1,1299,google,cpc,Brand search — CHOSEN,desktop,Mumbai
+1057,2025-02-17,CHOSEN Hydra Boost Moisturiser,3,2997,meta,paid_social,Retargeting — cart abandonment,mobile,Hyderabad
+1058,2025-02-18,CHOSEN Retinol Night Cream,1,1599,organic,organic,,mobile,Pune
+1059,2025-02-18,CHOSEN Retinol Night Cream,1,1599,direct,none,,mobile,Chennai
+1060,2025-02-18,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Retargeting — cart abandonment,desktop,Kolkata
+1061,2025-02-18,CHOSEN Vitamin C Serum,2,2598,direct,none,,mobile,Delhi
+1062,2025-02-18,CHOSEN Retinol Night Cream,2,3198,google,cpc,Competitor keywords,mobile,Chennai
+1063,2025-02-18,CHOSEN Niacinamide 10%,2,1798,organic,organic,,tablet,Kolkata
+1064,2025-02-19,CHOSEN Vitamin C Serum,1,1299,organic,organic,,desktop,Kolkata
+1065,2025-02-19,CHOSEN Hydra Boost Moisturiser,2,1998,direct,none,,desktop,Bangalore
+1066,2025-02-19,CHOSEN AHA BHA Cleanser,2,1298,meta,paid_social,Skin quiz — awareness,desktop,Delhi
+1067,2025-02-20,CHOSEN AHA BHA Cleanser,1,649,organic,organic,,desktop,Kolkata
+1068,2025-02-20,CHOSEN Hydra Boost Moisturiser,1,999,meta,paid_social,Skin quiz — awareness,mobile,Kolkata
+1069,2025-02-20,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Lookalike 2% — cold audience,mobile,Kolkata
+1070,2025-02-21,CHOSEN Vitamin C Serum,2,2598,meta,paid_social,Skin quiz — awareness,mobile,Chennai
+1071,2025-02-21,CHOSEN SPF 50 Sunscreen,1,749,direct,none,,desktop,Bangalore
+1072,2025-02-21,CHOSEN SPF 50 Sunscreen,1,749,organic,organic,,tablet,Mumbai
+1073,2025-02-21,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Dermat recommended — UGC,desktop,Mumbai
+1074,2025-02-21,CHOSEN SPF 50 Sunscreen,1,749,google,cpc,Google shopping — all products,tablet,Bangalore
+1075,2025-02-21,CHOSEN Hydra Boost Moisturiser,2,1998,google,cpc,Brand search — CHOSEN,mobile,Pune
+1076,2025-02-22,CHOSEN Retinol Night Cream,1,1599,meta,paid_social,Lookalike 2% — cold audience,mobile,Hyderabad
+1077,2025-02-22,CHOSEN Retinol Night Cream,1,1599,google,cpc,Google shopping — all products,mobile,Kolkata
+1078,2025-02-22,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Lookalike 2% — cold audience,mobile,Pune
+1079,2025-02-22,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Interest — skincare routine,mobile,Kolkata
+1080,2025-02-22,CHOSEN Hydra Boost Moisturiser,1,999,direct,none,,mobile,Chennai
+1081,2025-02-23,CHOSEN Hydra Boost Moisturiser,1,999,meta,paid_social,Retargeting — cart abandonment,desktop,Delhi
+1082,2025-02-23,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Retargeting — cart abandonment,desktop,Hyderabad
+1083,2025-02-23,CHOSEN Niacinamide 10%,2,1798,meta,paid_social,Dermat recommended — UGC,mobile,Hyderabad
+1084,2025-02-23,CHOSEN Vitamin C Serum,2,2598,meta,paid_social,Skin quiz — awareness,mobile,Kolkata
+1085,2025-02-23,CHOSEN Retinol Night Cream,1,1599,direct,none,,mobile,Kolkata
+1086,2025-02-23,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Retargeting — cart abandonment,tablet,Chennai
+1087,2025-02-24,CHOSEN AHA BHA Cleanser,1,649,direct,none,,desktop,Chennai
+1088,2025-02-24,CHOSEN AHA BHA Cleanser,2,1298,meta,paid_social,Dermat recommended — UGC,desktop,Hyderabad
+1089,2025-02-24,CHOSEN Hydra Boost Moisturiser,1,999,google,cpc,Google shopping — all products,desktop,Hyderabad
+1090,2025-02-24,CHOSEN AHA BHA Cleanser,1,649,google,cpc,Competitor keywords,mobile,Bangalore
+1091,2025-02-25,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Dermat recommended — UGC,mobile,Pune
+1092,2025-02-25,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Retargeting — cart abandonment,mobile,Hyderabad
+1093,2025-02-25,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Retargeting — cart abandonment,desktop,Pune
+1094,2025-02-25,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Dermat recommended — UGC,tablet,Bangalore
+1095,2025-02-26,CHOSEN AHA BHA Cleanser,1,649,organic,organic,,desktop,Kolkata
+1096,2025-02-26,CHOSEN AHA BHA Cleanser,1,649,google,cpc,Google shopping — all products,mobile,Mumbai
+1097,2025-02-26,CHOSEN Hydra Boost Moisturiser,1,999,meta,paid_social,Interest — skincare routine,mobile,Delhi
+1098,2025-02-26,CHOSEN Retinol Night Cream,1,1599,direct,none,,mobile,Chennai
+1099,2025-02-26,CHOSEN Hydra Boost Moisturiser,1,999,google,cpc,Brand search — CHOSEN,desktop,Delhi
+1100,2025-02-27,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Lookalike 2% — cold audience,mobile,Hyderabad
+1101,2025-02-27,CHOSEN SPF 50 Sunscreen,2,1498,meta,paid_social,Interest — skincare routine,mobile,Pune
+1102,2025-02-28,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Lookalike 2% — cold audience,desktop,Pune
+1103,2025-02-28,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Skin quiz — awareness,mobile,Delhi
+1104,2025-02-28,CHOSEN Hydra Boost Moisturiser,1,999,meta,paid_social,Interest — skincare routine,tablet,Hyderabad
+1105,2025-02-28,CHOSEN Niacinamide 10%,1,899,google,cpc,Competitor keywords,tablet,Pune
+1106,2025-02-28,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Retargeting — cart abandonment,mobile,Bangalore
+1107,2025-02-28,CHOSEN AHA BHA Cleanser,3,1947,google,cpc,Remarketing — display,mobile,Chennai
+1108,2025-03-01,CHOSEN Hydra Boost Moisturiser,1,999,meta,paid_social,Lookalike 2% — cold audience,mobile,Chennai
+1109,2025-03-01,CHOSEN SPF 50 Sunscreen,1,749,organic,organic,,desktop,Mumbai
+1110,2025-03-01,CHOSEN Vitamin C Serum,2,2598,google,cpc,Competitor keywords,desktop,Mumbai
+1111,2025-03-02,CHOSEN Hydra Boost Moisturiser,2,1998,direct,none,,mobile,Delhi
+1112,2025-03-02,CHOSEN Hydra Boost Moisturiser,1,999,meta,paid_social,Dermat recommended — UGC,desktop,Chennai
+1113,2025-03-02,CHOSEN AHA BHA Cleanser,1,649,organic,organic,,desktop,Bangalore
+1114,2025-03-02,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Retargeting — cart abandonment,mobile,Kolkata
+1115,2025-03-02,CHOSEN SPF 50 Sunscreen,1,749,google,cpc,Remarketing — display,desktop,Delhi
+1116,2025-03-03,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Lookalike 2% — cold audience,desktop,Bangalore
+1117,2025-03-03,CHOSEN Vitamin C Serum,1,1299,google,cpc,Google shopping — all products,mobile,Chennai
+1118,2025-03-03,CHOSEN Hydra Boost Moisturiser,1,999,organic,organic,,desktop,Hyderabad
+1119,2025-03-03,CHOSEN Vitamin C Serum,1,1299,organic,organic,,mobile,Delhi
+1120,2025-03-03,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Dermat recommended — UGC,mobile,Hyderabad
+1121,2025-03-04,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Interest — skincare routine,mobile,Pune
+1122,2025-03-04,CHOSEN Hydra Boost Moisturiser,1,999,meta,paid_social,Skin quiz — awareness,desktop,Delhi
+1123,2025-03-04,CHOSEN SPF 50 Sunscreen,2,1498,meta,paid_social,Interest — skincare routine,tablet,Chennai
+1124,2025-03-04,CHOSEN Niacinamide 10%,1,899,google,cpc,Brand search — CHOSEN,mobile,Bangalore
+1125,2025-03-04,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Dermat recommended — UGC,tablet,Chennai
+1126,2025-03-04,CHOSEN Hydra Boost Moisturiser,2,1998,meta,paid_social,Retargeting — cart abandonment,mobile,Kolkata
+1127,2025-03-05,CHOSEN AHA BHA Cleanser,1,649,google,cpc,Remarketing — display,mobile,Mumbai
+1128,2025-03-05,CHOSEN Vitamin C Serum,2,2598,meta,paid_social,Interest — skincare routine,mobile,Mumbai
+1129,2025-03-06,CHOSEN Niacinamide 10%,1,899,google,cpc,Brand search — CHOSEN,mobile,Bangalore
+1130,2025-03-06,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Retargeting — cart abandonment,mobile,Chennai
+1131,2025-03-06,CHOSEN Niacinamide 10%,2,1798,organic,organic,,mobile,Hyderabad
+1132,2025-03-06,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Dermat recommended — UGC,desktop,Chennai
+1133,2025-03-06,CHOSEN Vitamin C Serum,3,3897,direct,none,,mobile,Delhi
+1134,2025-03-06,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Skin quiz — awareness,mobile,Delhi
+1135,2025-03-07,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Dermat recommended — UGC,mobile,Pune
+1136,2025-03-07,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Interest — skincare routine,desktop,Kolkata
+1137,2025-03-08,CHOSEN AHA BHA Cleanser,1,649,google,cpc,Google shopping — all products,mobile,Delhi
+1138,2025-03-08,CHOSEN Niacinamide 10%,1,899,direct,none,,mobile,Bangalore
+1139,2025-03-08,CHOSEN AHA BHA Cleanser,1,649,google,cpc,Competitor keywords,desktop,Pune
+1140,2025-03-08,CHOSEN Retinol Night Cream,1,1599,meta,paid_social,Lookalike 2% — cold audience,mobile,Chennai
+1141,2025-03-08,CHOSEN Hydra Boost Moisturiser,1,999,meta,paid_social,Interest — skincare routine,mobile,Mumbai
+1142,2025-03-08,CHOSEN Retinol Night Cream,3,4797,meta,paid_social,Dermat recommended — UGC,tablet,Pune
+1143,2025-03-09,CHOSEN AHA BHA Cleanser,1,649,google,cpc,Google shopping — all products,mobile,Bangalore
+1144,2025-03-09,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Dermat recommended — UGC,mobile,Mumbai
+1145,2025-03-09,CHOSEN SPF 50 Sunscreen,1,749,google,cpc,Remarketing — display,mobile,Delhi
+1146,2025-03-09,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Interest — skincare routine,mobile,Kolkata
+1147,2025-03-10,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Skin quiz — awareness,mobile,Kolkata
+1148,2025-03-10,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Dermat recommended — UGC,mobile,Hyderabad
+1149,2025-03-10,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Dermat recommended — UGC,mobile,Hyderabad
+1150,2025-03-10,CHOSEN Niacinamide 10%,1,899,organic,organic,,mobile,Bangalore
+1151,2025-03-10,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Interest — skincare routine,desktop,Kolkata
+1152,2025-03-10,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Retargeting — cart abandonment,mobile,Mumbai
+1153,2025-03-11,CHOSEN Vitamin C Serum,1,1299,direct,none,,mobile,Kolkata
+1154,2025-03-11,CHOSEN Retinol Night Cream,2,3198,meta,paid_social,Lookalike 2% — cold audience,mobile,Hyderabad
+1155,2025-03-11,CHOSEN Niacinamide 10%,1,899,direct,none,,mobile,Delhi
+1156,2025-03-12,CHOSEN Vitamin C Serum,1,1299,google,cpc,Google shopping — all products,desktop,Hyderabad
+1157,2025-03-12,CHOSEN SPF 50 Sunscreen,2,1498,meta,paid_social,Dermat recommended — UGC,mobile,Bangalore
+1158,2025-03-12,CHOSEN Retinol Night Cream,3,4797,organic,organic,,mobile,Delhi
+1159,2025-03-12,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Interest — skincare routine,desktop,Hyderabad
+1160,2025-03-12,CHOSEN Niacinamide 10%,3,2697,google,cpc,Competitor keywords,mobile,Hyderabad
+1161,2025-03-12,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Interest — skincare routine,mobile,Kolkata
+1162,2025-03-13,CHOSEN AHA BHA Cleanser,3,1947,meta,paid_social,Retargeting — cart abandonment,mobile,Chennai
+1163,2025-03-13,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Skin quiz — awareness,desktop,Mumbai
+1164,2025-03-13,CHOSEN AHA BHA Cleanser,2,1298,organic,organic,,tablet,Mumbai
+1165,2025-03-13,CHOSEN SPF 50 Sunscreen,1,749,google,cpc,Competitor keywords,mobile,Mumbai
+1166,2025-03-13,CHOSEN Hydra Boost Moisturiser,2,1998,organic,organic,,mobile,Bangalore
+1167,2025-03-14,CHOSEN Vitamin C Serum,1,1299,organic,organic,,mobile,Pune
+1168,2025-03-14,CHOSEN Niacinamide 10%,2,1798,direct,none,,mobile,Mumbai
+1169,2025-03-14,CHOSEN Hydra Boost Moisturiser,2,1998,organic,organic,,mobile,Pune
+1170,2025-03-14,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Skin quiz — awareness,mobile,Bangalore
+1171,2025-03-14,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Retargeting — cart abandonment,mobile,Kolkata
+1172,2025-03-15,CHOSEN Retinol Night Cream,2,3198,meta,paid_social,Skin quiz — awareness,desktop,Delhi
+1173,2025-03-15,CHOSEN Niacinamide 10%,1,899,google,cpc,Google shopping — all products,mobile,Bangalore
+1174,2025-03-15,CHOSEN SPF 50 Sunscreen,1,749,google,cpc,Remarketing — display,mobile,Hyderabad
+1175,2025-03-16,CHOSEN SPF 50 Sunscreen,1,749,direct,none,,mobile,Bangalore
+1176,2025-03-16,CHOSEN Niacinamide 10%,3,2697,google,cpc,Competitor keywords,desktop,Mumbai
+1177,2025-03-16,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Dermat recommended — UGC,tablet,Bangalore
+1178,2025-03-16,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Interest — skincare routine,desktop,Kolkata
+1179,2025-03-17,CHOSEN Hydra Boost Moisturiser,1,999,direct,none,,desktop,Bangalore
+1180,2025-03-17,CHOSEN Niacinamide 10%,1,899,organic,organic,,mobile,Pune
+1181,2025-03-18,CHOSEN Hydra Boost Moisturiser,1,999,google,cpc,Google shopping — all products,desktop,Mumbai
+1182,2025-03-18,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Interest — skincare routine,desktop,Mumbai
+1183,2025-03-18,CHOSEN SPF 50 Sunscreen,2,1498,direct,none,,mobile,Delhi
+1184,2025-03-19,CHOSEN SPF 50 Sunscreen,1,749,organic,organic,,desktop,Kolkata
+1185,2025-03-19,CHOSEN SPF 50 Sunscreen,2,1498,meta,paid_social,Interest — skincare routine,mobile,Mumbai
+1186,2025-03-19,CHOSEN Niacinamide 10%,2,1798,google,cpc,Brand search — CHOSEN,mobile,Pune
+1187,2025-03-19,CHOSEN AHA BHA Cleanser,3,1947,organic,organic,,desktop,Bangalore
+1188,2025-03-19,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Interest — skincare routine,mobile,Bangalore
+1189,2025-03-19,CHOSEN Retinol Night Cream,1,1599,google,cpc,Competitor keywords,desktop,Bangalore
+1190,2025-03-20,CHOSEN Vitamin C Serum,1,1299,google,cpc,Remarketing — display,tablet,Bangalore
+1191,2025-03-20,CHOSEN Niacinamide 10%,1,899,direct,none,,desktop,Hyderabad
+1192,2025-03-21,CHOSEN Niacinamide 10%,1,899,google,cpc,Brand search — CHOSEN,mobile,Hyderabad
+1193,2025-03-21,CHOSEN Retinol Night Cream,1,1599,meta,paid_social,Retargeting — cart abandonment,mobile,Pune
+1194,2025-03-21,CHOSEN Hydra Boost Moisturiser,3,2997,direct,none,,mobile,Pune
+1195,2025-03-21,CHOSEN AHA BHA Cleanser,1,649,organic,organic,,desktop,Chennai
+1196,2025-03-22,CHOSEN SPF 50 Sunscreen,1,749,direct,none,,mobile,Hyderabad
+1197,2025-03-22,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Retargeting — cart abandonment,desktop,Chennai
+1198,2025-03-22,CHOSEN Hydra Boost Moisturiser,1,999,direct,none,,mobile,Delhi
+1199,2025-03-22,CHOSEN AHA BHA Cleanser,1,649,direct,none,,mobile,Pune
+1200,2025-03-22,CHOSEN Vitamin C Serum,2,2598,google,cpc,Brand search — CHOSEN,mobile,Delhi
+1201,2025-03-23,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Dermat recommended — UGC,desktop,Delhi
+1202,2025-03-23,CHOSEN Retinol Night Cream,1,1599,meta,paid_social,Retargeting — cart abandonment,desktop,Delhi
+1203,2025-03-23,CHOSEN Retinol Night Cream,1,1599,direct,none,,mobile,Pune
+1204,2025-03-23,CHOSEN Niacinamide 10%,1,899,organic,organic,,desktop,Delhi
+1205,2025-03-23,CHOSEN Niacinamide 10%,1,899,google,cpc,Brand search — CHOSEN,mobile,Hyderabad
+1206,2025-03-23,CHOSEN AHA BHA Cleanser,1,649,google,cpc,Brand search — CHOSEN,mobile,Chennai
+1207,2025-03-24,CHOSEN Retinol Night Cream,1,1599,google,cpc,Google shopping — all products,desktop,Kolkata
+1208,2025-03-24,CHOSEN AHA BHA Cleanser,1,649,google,cpc,Competitor keywords,mobile,Hyderabad
+1209,2025-03-25,CHOSEN AHA BHA Cleanser,2,1298,meta,paid_social,Skin quiz — awareness,mobile,Mumbai
+1210,2025-03-25,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Retargeting — cart abandonment,desktop,Chennai
+1211,2025-03-25,CHOSEN AHA BHA Cleanser,3,1947,google,cpc,Competitor keywords,mobile,Hyderabad
+1212,2025-03-25,CHOSEN Vitamin C Serum,2,2598,google,cpc,Remarketing — display,mobile,Pune
+1213,2025-03-25,CHOSEN AHA BHA Cleanser,1,649,google,cpc,Google shopping — all products,mobile,Bangalore
+1214,2025-03-26,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Skin quiz — awareness,desktop,Bangalore
+1215,2025-03-26,CHOSEN Hydra Boost Moisturiser,3,2997,direct,none,,mobile,Kolkata
+1216,2025-03-26,CHOSEN Vitamin C Serum,2,2598,meta,paid_social,Interest — skincare routine,mobile,Delhi
+1217,2025-03-26,CHOSEN Hydra Boost Moisturiser,1,999,google,cpc,Competitor keywords,mobile,Pune
+1218,2025-03-26,CHOSEN AHA BHA Cleanser,2,1298,direct,none,,desktop,Bangalore
+1219,2025-03-27,CHOSEN Retinol Night Cream,1,1599,meta,paid_social,Skin quiz — awareness,mobile,Hyderabad
+1220,2025-03-27,CHOSEN SPF 50 Sunscreen,2,1498,meta,paid_social,Skin quiz — awareness,mobile,Kolkata
+1221,2025-03-27,CHOSEN AHA BHA Cleanser,2,1298,meta,paid_social,Retargeting — cart abandonment,tablet,Kolkata
+1222,2025-03-27,CHOSEN Retinol Night Cream,3,4797,google,cpc,Brand search — CHOSEN,desktop,Bangalore
+1223,2025-03-27,CHOSEN Hydra Boost Moisturiser,2,1998,meta,paid_social,Lookalike 2% — cold audience,desktop,Bangalore
+1224,2025-03-27,CHOSEN Retinol Night Cream,1,1599,meta,paid_social,Retargeting — cart abandonment,mobile,Pune
+1225,2025-03-28,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Dermat recommended — UGC,mobile,Delhi
+1226,2025-03-28,CHOSEN Retinol Night Cream,1,1599,meta,paid_social,Lookalike 2% — cold audience,desktop,Delhi
+1227,2025-03-29,CHOSEN Vitamin C Serum,1,1299,organic,organic,,mobile,Pune
+1228,2025-03-29,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Dermat recommended — UGC,mobile,Chennai
+1229,2025-03-29,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Interest — skincare routine,desktop,Hyderabad
+1230,2025-03-30,CHOSEN Niacinamide 10%,1,899,google,cpc,Brand search — CHOSEN,desktop,Mumbai
+1231,2025-03-30,CHOSEN Niacinamide 10%,2,1798,meta,paid_social,Retargeting — cart abandonment,mobile,Mumbai
+1232,2025-03-30,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Interest — skincare routine,mobile,Delhi
+1233,2025-03-30,CHOSEN Vitamin C Serum,1,1299,google,cpc,Competitor keywords,desktop,Hyderabad
+1234,2025-03-30,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Skin quiz — awareness,mobile,Pune
+1235,2025-03-30,CHOSEN Vitamin C Serum,1,1299,google,cpc,Competitor keywords,tablet,Delhi
+1236,2025-03-31,CHOSEN Vitamin C Serum,1,1299,google,cpc,Competitor keywords,mobile,Hyderabad
+1237,2025-03-31,CHOSEN AHA BHA Cleanser,2,1298,google,cpc,Brand search — CHOSEN,desktop,Delhi
+1238,2025-03-31,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Retargeting — cart abandonment,mobile,Chennai
+1239,2025-03-31,CHOSEN SPF 50 Sunscreen,2,1498,meta,paid_social,Lookalike 2% — cold audience,desktop,Kolkata
+1240,2025-03-31,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Skin quiz — awareness,mobile,Delhi
+1241,2025-03-31,CHOSEN Hydra Boost Moisturiser,1,999,organic,organic,,tablet,Pune
+1242,2025-04-01,CHOSEN Hydra Boost Moisturiser,3,2997,google,cpc,Remarketing — display,mobile,Pune
+1243,2025-04-01,CHOSEN SPF 50 Sunscreen,2,1498,direct,none,,desktop,Delhi
+1244,2025-04-01,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Interest — skincare routine,desktop,Chennai
+1245,2025-04-01,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Dermat recommended — UGC,mobile,Mumbai
+1246,2025-04-01,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Lookalike 2% — cold audience,tablet,Mumbai
+1247,2025-04-02,CHOSEN AHA BHA Cleanser,1,649,google,cpc,Remarketing — display,tablet,Pune
+1248,2025-04-02,CHOSEN AHA BHA Cleanser,2,1298,organic,organic,,mobile,Delhi
+1249,2025-04-02,CHOSEN Retinol Night Cream,1,1599,meta,paid_social,Interest — skincare routine,mobile,Mumbai
+1250,2025-04-02,CHOSEN SPF 50 Sunscreen,3,2247,organic,organic,,mobile,Pune
+1251,2025-04-02,CHOSEN Hydra Boost Moisturiser,1,999,meta,paid_social,Retargeting — cart abandonment,mobile,Chennai
+1252,2025-04-02,CHOSEN SPF 50 Sunscreen,2,1498,google,cpc,Competitor keywords,mobile,Kolkata
+1253,2025-04-03,CHOSEN Hydra Boost Moisturiser,1,999,google,cpc,Brand search — CHOSEN,mobile,Mumbai
+1254,2025-04-03,CHOSEN SPF 50 Sunscreen,1,749,google,cpc,Remarketing — display,desktop,Chennai
+1255,2025-04-03,CHOSEN SPF 50 Sunscreen,1,749,organic,organic,,desktop,Bangalore
+1256,2025-04-03,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Interest — skincare routine,desktop,Bangalore
+1257,2025-04-04,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Lookalike 2% — cold audience,desktop,Pune
+1258,2025-04-04,CHOSEN Retinol Night Cream,1,1599,direct,none,,desktop,Chennai
+1259,2025-04-04,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Lookalike 2% — cold audience,mobile,Kolkata
+1260,2025-04-04,CHOSEN Niacinamide 10%,1,899,google,cpc,Google shopping — all products,mobile,Kolkata
+1261,2025-04-04,CHOSEN Hydra Boost Moisturiser,2,1998,meta,paid_social,Dermat recommended — UGC,mobile,Bangalore
+1262,2025-04-04,CHOSEN Retinol Night Cream,1,1599,organic,organic,,mobile,Delhi
+1263,2025-04-05,CHOSEN Retinol Night Cream,2,3198,organic,organic,,mobile,Hyderabad
+1264,2025-04-05,CHOSEN Hydra Boost Moisturiser,2,1998,meta,paid_social,Lookalike 2% — cold audience,tablet,Chennai
+1265,2025-04-05,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Interest — skincare routine,mobile,Kolkata
+1266,2025-04-06,CHOSEN Niacinamide 10%,1,899,direct,none,,tablet,Hyderabad
+1267,2025-04-06,CHOSEN AHA BHA Cleanser,1,649,google,cpc,Competitor keywords,mobile,Delhi
+1268,2025-04-06,CHOSEN Retinol Night Cream,1,1599,organic,organic,,mobile,Pune
+1269,2025-04-06,CHOSEN Retinol Night Cream,3,4797,google,cpc,Competitor keywords,desktop,Chennai
+1270,2025-04-06,CHOSEN SPF 50 Sunscreen,1,749,organic,organic,,mobile,Hyderabad
+1271,2025-04-07,CHOSEN Vitamin C Serum,3,3897,meta,paid_social,Interest — skincare routine,mobile,Hyderabad
+1272,2025-04-07,CHOSEN Vitamin C Serum,1,1299,organic,organic,,mobile,Bangalore
+1273,2025-04-07,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Skin quiz — awareness,mobile,Mumbai
+1274,2025-04-07,CHOSEN Hydra Boost Moisturiser,1,999,organic,organic,,mobile,Mumbai
+1275,2025-04-07,CHOSEN Hydra Boost Moisturiser,2,1998,meta,paid_social,Interest — skincare routine,desktop,Hyderabad
+1276,2025-04-07,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Skin quiz — awareness,mobile,Delhi
+1277,2025-04-08,CHOSEN Retinol Night Cream,1,1599,direct,none,,mobile,Bangalore
+1278,2025-04-08,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Skin quiz — awareness,desktop,Chennai
+1279,2025-04-08,CHOSEN AHA BHA Cleanser,1,649,google,cpc,Brand search — CHOSEN,mobile,Chennai
+1280,2025-04-08,CHOSEN SPF 50 Sunscreen,1,749,google,cpc,Google shopping — all products,desktop,Delhi
+1281,2025-04-08,CHOSEN Hydra Boost Moisturiser,1,999,google,cpc,Google shopping — all products,mobile,Bangalore
+1282,2025-04-08,CHOSEN Retinol Night Cream,1,1599,meta,paid_social,Dermat recommended — UGC,tablet,Chennai
+1283,2025-04-09,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Interest — skincare routine,tablet,Bangalore
+1284,2025-04-09,CHOSEN SPF 50 Sunscreen,2,1498,organic,organic,,mobile,Pune
+1285,2025-04-10,CHOSEN Hydra Boost Moisturiser,2,1998,organic,organic,,mobile,Bangalore
+1286,2025-04-10,CHOSEN Hydra Boost Moisturiser,1,999,google,cpc,Google shopping — all products,desktop,Pune
+1287,2025-04-11,CHOSEN Vitamin C Serum,2,2598,organic,organic,,tablet,Mumbai
+1288,2025-04-11,CHOSEN Niacinamide 10%,2,1798,meta,paid_social,Skin quiz — awareness,mobile,Bangalore
+1289,2025-04-11,CHOSEN SPF 50 Sunscreen,1,749,google,cpc,Remarketing — display,desktop,Bangalore
+1290,2025-04-12,CHOSEN Vitamin C Serum,2,2598,organic,organic,,mobile,Mumbai
+1291,2025-04-12,CHOSEN AHA BHA Cleanser,2,1298,organic,organic,,desktop,Hyderabad
+1292,2025-04-12,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Retargeting — cart abandonment,mobile,Kolkata
+1293,2025-04-12,CHOSEN Hydra Boost Moisturiser,1,999,google,cpc,Brand search — CHOSEN,mobile,Kolkata
+1294,2025-04-13,CHOSEN Vitamin C Serum,1,1299,google,cpc,Competitor keywords,desktop,Bangalore
+1295,2025-04-13,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Interest — skincare routine,mobile,Mumbai
+1296,2025-04-13,CHOSEN SPF 50 Sunscreen,1,749,organic,organic,,mobile,Pune
+1297,2025-04-14,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Interest — skincare routine,desktop,Delhi
+1298,2025-04-14,CHOSEN Niacinamide 10%,2,1798,direct,none,,desktop,Hyderabad
+1299,2025-04-15,CHOSEN Hydra Boost Moisturiser,1,999,meta,paid_social,Retargeting — cart abandonment,mobile,Chennai
+1300,2025-04-15,CHOSEN Hydra Boost Moisturiser,1,999,meta,paid_social,Retargeting — cart abandonment,mobile,Hyderabad
+1301,2025-04-16,CHOSEN AHA BHA Cleanser,1,649,google,cpc,Competitor keywords,mobile,Mumbai
+1302,2025-04-16,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Retargeting — cart abandonment,desktop,Mumbai
+1303,2025-04-17,CHOSEN Hydra Boost Moisturiser,1,999,organic,organic,,tablet,Bangalore
+1304,2025-04-17,CHOSEN Niacinamide 10%,1,899,google,cpc,Remarketing — display,desktop,Hyderabad
+1305,2025-04-17,CHOSEN Vitamin C Serum,2,2598,meta,paid_social,Interest — skincare routine,tablet,Bangalore
+1306,2025-04-17,CHOSEN Retinol Night Cream,1,1599,google,cpc,Brand search — CHOSEN,desktop,Kolkata
+1307,2025-04-18,CHOSEN Hydra Boost Moisturiser,1,999,organic,organic,,desktop,Chennai
+1308,2025-04-18,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Retargeting — cart abandonment,mobile,Bangalore
+1309,2025-04-18,CHOSEN AHA BHA Cleanser,2,1298,google,cpc,Competitor keywords,mobile,Chennai
+1310,2025-04-19,CHOSEN Hydra Boost Moisturiser,2,1998,meta,paid_social,Interest — skincare routine,mobile,Kolkata
+1311,2025-04-19,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Dermat recommended — UGC,mobile,Mumbai
+1312,2025-04-20,CHOSEN Niacinamide 10%,2,1798,google,cpc,Competitor keywords,desktop,Pune
+1313,2025-04-20,CHOSEN AHA BHA Cleanser,1,649,google,cpc,Google shopping — all products,desktop,Kolkata
+1314,2025-04-20,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Retargeting — cart abandonment,mobile,Pune
+1315,2025-04-20,CHOSEN SPF 50 Sunscreen,2,1498,meta,paid_social,Dermat recommended — UGC,mobile,Pune
+1316,2025-04-20,CHOSEN SPF 50 Sunscreen,1,749,direct,none,,mobile,Chennai
+1317,2025-04-21,CHOSEN Retinol Night Cream,3,4797,google,cpc,Google shopping — all products,mobile,Pune
+1318,2025-04-21,CHOSEN Retinol Night Cream,1,1599,google,cpc,Competitor keywords,desktop,Mumbai
+1319,2025-04-22,CHOSEN Retinol Night Cream,1,1599,direct,none,,mobile,Chennai
+1320,2025-04-22,CHOSEN AHA BHA Cleanser,2,1298,meta,paid_social,Skin quiz — awareness,mobile,Pune
+1321,2025-04-23,CHOSEN SPF 50 Sunscreen,1,749,google,cpc,Remarketing — display,desktop,Delhi
+1322,2025-04-23,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Interest — skincare routine,desktop,Bangalore
+1323,2025-04-23,CHOSEN SPF 50 Sunscreen,2,1498,organic,organic,,desktop,Hyderabad
+1324,2025-04-23,CHOSEN Retinol Night Cream,1,1599,meta,paid_social,Lookalike 2% — cold audience,mobile,Hyderabad
+1325,2025-04-24,CHOSEN Niacinamide 10%,1,899,meta,paid_social,Retargeting — cart abandonment,mobile,Hyderabad
+1326,2025-04-24,CHOSEN AHA BHA Cleanser,1,649,organic,organic,,desktop,Delhi
+1327,2025-04-25,CHOSEN Hydra Boost Moisturiser,1,999,direct,none,,desktop,Hyderabad
+1328,2025-04-25,CHOSEN AHA BHA Cleanser,1,649,direct,none,,mobile,Mumbai
+1329,2025-04-25,CHOSEN Retinol Night Cream,1,1599,meta,paid_social,Interest — skincare routine,mobile,Chennai
+1330,2025-04-25,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Skin quiz — awareness,desktop,Pune
+1331,2025-04-26,CHOSEN Vitamin C Serum,1,1299,meta,paid_social,Skin quiz — awareness,desktop,Pune
+1332,2025-04-26,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Interest — skincare routine,mobile,Chennai
+1333,2025-04-26,CHOSEN SPF 50 Sunscreen,1,749,meta,paid_social,Dermat recommended — UGC,mobile,Kolkata
+1334,2025-04-26,CHOSEN Niacinamide 10%,3,2697,google,cpc,Brand search — CHOSEN,mobile,Kolkata
+1335,2025-04-26,CHOSEN Retinol Night Cream,3,4797,direct,none,,desktop,Delhi
+1336,2025-04-27,CHOSEN Vitamin C Serum,1,1299,google,cpc,Brand search — CHOSEN,desktop,Kolkata
+1337,2025-04-27,CHOSEN Niacinamide 10%,1,899,google,cpc,Remarketing — display,mobile,Bangalore
+1338,2025-04-27,CHOSEN SPF 50 Sunscreen,1,749,direct,none,,tablet,Pune
+1339,2025-04-27,CHOSEN Retinol Night Cream,1,1599,organic,organic,,desktop,Chennai
+1340,2025-04-27,CHOSEN AHA BHA Cleanser,2,1298,google,cpc,Competitor keywords,mobile,Pune
+1341,2025-04-27,CHOSEN Retinol Night Cream,1,1599,meta,paid_social,Interest — skincare routine,desktop,Kolkata
+1342,2025-04-28,CHOSEN Hydra Boost Moisturiser,2,1998,google,cpc,Competitor keywords,desktop,Chennai
+1343,2025-04-28,CHOSEN Retinol Night Cream,1,1599,meta,paid_social,Skin quiz — awareness,mobile,Pune
+1344,2025-04-29,CHOSEN AHA BHA Cleanser,1,649,organic,organic,,desktop,Mumbai
+1345,2025-04-29,CHOSEN Niacinamide 10%,1,899,google,cpc,Brand search — CHOSEN,mobile,Delhi
+1346,2025-04-29,CHOSEN AHA BHA Cleanser,1,649,meta,paid_social,Retargeting — cart abandonment,desktop,Hyderabad
+1347,2025-04-29,CHOSEN Hydra Boost Moisturiser,2,1998,organic,organic,,desktop,Chennai
+1348,2025-04-29,CHOSEN Hydra Boost Moisturiser,1,999,meta,paid_social,Lookalike 2% — cold audience,mobile,Delhi
+1349,2025-04-29,CHOSEN Retinol Night Cream,1,1599,google,cpc,Competitor keywords,desktop,Pune
+1350,2025-04-30,CHOSEN Niacinamide 10%,1,899,google,cpc,Google shopping — all products,mobile,Bangalore
+1351,2025-04-30,CHOSEN Hydra Boost Moisturiser,1,999,organic,organic,,desktop,Bangalore
+1352,2025-04-30,CHOSEN SPF 50 Sunscreen,1,749,google,cpc,Competitor keywords,desktop,Hyderabad
+1353,2025-04-30,CHOSEN AHA BHA Cleanser,2,1298,organic,organic,,tablet,Kolkata

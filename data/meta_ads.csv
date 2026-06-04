@@ -1,0 +1,446 @@
+date,campaign_name,creative_format,spend,impressions,clicks,ctr,cpc,purchases,purchase_revenue,roas
+2025-02-01,Skin quiz — awareness,Video,386.0,9203,199,2.16,2.0,8,8232,21.33
+2025-02-02,Skin quiz — awareness,Video,480.0,9606,243,2.53,2.0,7,8344,17.38
+2025-02-03,Skin quiz — awareness,Video,418.0,7621,300,3.94,1.0,15,12675,30.32
+2025-02-04,Skin quiz — awareness,Video,410.0,9720,319,3.28,1.0,16,17488,42.65
+2025-02-05,Skin quiz — awareness,Video,478.0,9898,424,4.28,1.0,22,24376,51.0
+2025-02-06,Skin quiz — awareness,Video,398.0,10549,208,1.97,2.0,7,9079,22.81
+2025-02-07,Skin quiz — awareness,Video,459.0,8960,217,2.42,2.0,4,3760,8.19
+2025-02-08,Skin quiz — awareness,Video,435.0,8711,342,3.93,1.0,13,12077,27.76
+2025-02-09,Skin quiz — awareness,Video,502.0,10375,269,2.59,2.0,8,6736,13.42
+2025-02-10,Skin quiz — awareness,Video,427.0,11278,451,4.0,1.0,21,27867,65.26
+2025-02-11,Skin quiz — awareness,Video,369.0,8652,201,2.32,2.0,7,9758,26.44
+2025-02-12,Skin quiz — awareness,Video,463.0,9574,428,4.47,1.0,7,5621,12.14
+2025-02-13,Skin quiz — awareness,Video,497.0,10580,341,3.22,1.0,17,22015,44.3
+2025-02-14,Skin quiz — awareness,Video,427.0,7901,342,4.33,1.0,15,15945,37.34
+2025-02-15,Skin quiz — awareness,Video,501.0,12070,316,2.62,2.0,7,6692,13.36
+2025-02-16,Skin quiz — awareness,Video,489.0,9364,270,2.88,2.0,8,10680,21.84
+2025-02-17,Skin quiz — awareness,Video,449.0,8844,278,3.14,2.0,10,13970,31.11
+2025-02-18,Skin quiz — awareness,Video,484.0,13358,449,3.36,1.0,22,28864,59.64
+2025-02-19,Skin quiz — awareness,Video,495.0,10492,311,2.96,2.0,15,17535,35.42
+2025-02-20,Skin quiz — awareness,Video,426.0,8215,345,4.2,1.0,8,7088,16.64
+2025-02-21,Skin quiz — awareness,Video,399.0,10268,371,3.61,1.0,7,8876,22.25
+2025-02-22,Skin quiz — awareness,Video,447.0,10490,277,2.64,2.0,8,7376,16.5
+2025-02-23,Skin quiz — awareness,Video,516.0,9471,361,3.81,1.0,10,12700,24.61
+2025-02-24,Skin quiz — awareness,Video,407.0,8056,359,4.46,1.0,12,15456,37.98
+2025-02-25,Skin quiz — awareness,Video,462.0,11537,291,2.52,2.0,14,12012,26.0
+2025-02-26,Skin quiz — awareness,Video,370.0,6675,243,3.64,2.0,5,6650,17.97
+2025-02-27,Skin quiz — awareness,Video,430.0,10506,203,1.93,2.0,10,13910,32.35
+2025-02-28,Skin quiz — awareness,Video,493.0,12396,383,3.09,1.0,17,17680,35.86
+2025-03-01,Skin quiz — awareness,Video,482.0,11871,477,4.02,1.0,15,12885,26.73
+2025-03-02,Skin quiz — awareness,Video,448.0,8530,238,2.79,2.0,11,13893,31.01
+2025-03-03,Skin quiz — awareness,Video,384.0,7594,166,2.19,2.0,4,3752,9.77
+2025-03-04,Skin quiz — awareness,Video,414.0,7605,230,3.02,2.0,7,6629,16.01
+2025-03-05,Skin quiz — awareness,Video,413.0,11394,423,3.71,1.0,15,15165,36.72
+2025-03-06,Skin quiz — awareness,Video,374.0,10149,350,3.45,1.0,16,14096,37.69
+2025-03-07,Skin quiz — awareness,Video,368.0,7172,189,2.64,2.0,4,3352,9.11
+2025-03-08,Skin quiz — awareness,Video,469.0,8810,281,3.19,2.0,13,15795,33.68
+2025-03-09,Skin quiz — awareness,Video,465.0,10619,316,2.98,1.0,9,9009,19.37
+2025-03-10,Skin quiz — awareness,Video,349.0,8750,326,3.73,1.0,13,14261,40.86
+2025-03-11,Skin quiz — awareness,Video,441.0,10055,300,2.98,1.0,8,10256,23.26
+2025-03-12,Skin quiz — awareness,Video,385.0,9412,353,3.75,1.0,6,5742,14.91
+2025-03-13,Skin quiz — awareness,Video,366.0,9324,177,1.9,2.0,6,5760,15.74
+2025-03-14,Skin quiz — awareness,Video,429.0,7769,335,4.31,1.0,8,7352,17.14
+2025-03-15,Skin quiz — awareness,Video,420.0,8773,362,4.13,1.0,12,12888,30.69
+2025-03-16,Skin quiz — awareness,Video,386.0,7279,235,3.23,2.0,12,14028,36.34
+2025-03-17,Skin quiz — awareness,Video,495.0,11121,328,2.95,2.0,14,16520,33.37
+2025-03-18,Skin quiz — awareness,Video,513.0,11151,219,1.96,2.0,4,4840,9.43
+2025-03-19,Skin quiz — awareness,Video,508.0,13839,476,3.44,1.0,11,15268,30.06
+2025-03-20,Skin quiz — awareness,Video,397.0,8594,264,3.07,2.0,12,12612,31.77
+2025-03-21,Skin quiz — awareness,Video,433.0,8176,291,3.56,1.0,5,5790,13.37
+2025-03-22,Skin quiz — awareness,Video,397.0,7177,283,3.94,1.0,14,13986,35.23
+2025-03-23,Skin quiz — awareness,Video,370.0,7987,223,2.79,2.0,6,7014,18.96
+2025-03-24,Skin quiz — awareness,Video,379.0,8524,155,1.82,2.0,7,7924,20.91
+2025-03-25,Skin quiz — awareness,Video,486.0,8824,310,3.51,2.0,13,14300,29.42
+2025-03-26,Skin quiz — awareness,Video,491.0,8848,200,2.26,2.0,4,4684,9.54
+2025-03-27,Skin quiz — awareness,Video,443.0,11557,400,3.46,1.0,13,11024,24.88
+2025-03-28,Skin quiz — awareness,Video,422.0,11369,483,4.25,1.0,9,7398,17.53
+2025-03-29,Skin quiz — awareness,Video,506.0,12868,261,2.03,2.0,6,4824,9.53
+2025-03-30,Skin quiz — awareness,Video,383.0,7515,336,4.47,1.0,8,9304,24.29
+2025-03-31,Skin quiz — awareness,Video,467.0,9451,345,3.65,1.0,15,15975,34.21
+2025-04-01,Skin quiz — awareness,Video,400.0,10473,386,3.69,1.0,11,9218,23.05
+2025-04-02,Skin quiz — awareness,Video,481.0,10534,390,3.7,1.0,19,18544,38.55
+2025-04-03,Skin quiz — awareness,Video,359.0,7881,347,4.4,1.0,8,8968,24.98
+2025-04-04,Skin quiz — awareness,Video,445.0,9713,223,2.3,2.0,11,11352,25.51
+2025-04-05,Skin quiz — awareness,Video,502.0,12230,267,2.18,2.0,11,14850,29.58
+2025-04-06,Skin quiz — awareness,Video,486.0,9806,289,2.95,2.0,13,11050,22.74
+2025-04-07,Skin quiz — awareness,Video,448.0,10700,394,3.68,1.0,18,25128,56.09
+2025-04-08,Skin quiz — awareness,Video,378.0,10078,182,1.81,2.0,9,10449,27.64
+2025-04-09,Skin quiz — awareness,Video,453.0,11512,228,1.98,2.0,11,14773,32.61
+2025-04-10,Skin quiz — awareness,Video,488.0,10795,435,4.03,1.0,13,14937,30.61
+2025-04-11,Skin quiz — awareness,Video,444.0,10925,303,2.77,1.0,12,14076,31.7
+2025-04-12,Skin quiz — awareness,Video,456.0,9125,374,4.1,1.0,7,6818,14.95
+2025-04-13,Skin quiz — awareness,Video,441.0,10822,264,2.44,2.0,6,6486,14.71
+2025-04-14,Skin quiz — awareness,Video,455.0,9698,359,3.7,1.0,10,9740,21.41
+2025-04-15,Skin quiz — awareness,Video,468.0,11618,510,4.39,1.0,10,12260,26.2
+2025-04-16,Skin quiz — awareness,Video,390.0,9076,263,2.9,1.0,13,14573,37.37
+2025-04-17,Skin quiz — awareness,Video,422.0,9523,322,3.38,1.0,8,7912,18.75
+2025-04-18,Skin quiz — awareness,Video,391.0,9809,349,3.56,1.0,15,14610,37.37
+2025-04-19,Skin quiz — awareness,Video,508.0,13816,410,2.97,1.0,19,26144,51.46
+2025-04-20,Skin quiz — awareness,Video,444.0,10251,213,2.08,2.0,9,10674,24.04
+2025-04-21,Skin quiz — awareness,Video,443.0,10689,432,4.04,1.0,8,8944,20.19
+2025-04-22,Skin quiz — awareness,Video,422.0,8776,372,4.24,1.0,9,9846,23.33
+2025-04-23,Skin quiz — awareness,Video,451.0,9502,361,3.8,1.0,8,10824,24.0
+2025-04-24,Skin quiz — awareness,Video,360.0,8332,193,2.32,2.0,5,4420,12.28
+2025-04-25,Skin quiz — awareness,Video,487.0,10594,416,3.93,1.0,18,15606,32.05
+2025-04-26,Skin quiz — awareness,Video,428.0,10001,407,4.07,1.0,9,11421,26.68
+2025-04-27,Skin quiz — awareness,Video,493.0,9428,280,2.97,2.0,12,16440,33.35
+2025-04-28,Skin quiz — awareness,Video,413.0,7513,335,4.46,1.0,13,13442,32.55
+2025-04-29,Skin quiz — awareness,Video,358.0,7717,148,1.92,2.0,6,6486,18.12
+2025-04-30,Skin quiz — awareness,Video,488.0,10227,367,3.59,1.0,16,16208,33.21
+2025-02-01,Retargeting — cart abandonment,Carousel,229.0,6180,259,4.19,1.0,8,10392,45.38
+2025-02-02,Retargeting — cart abandonment,Carousel,210.0,5706,176,3.08,1.0,8,8168,38.9
+2025-02-03,Retargeting — cart abandonment,Carousel,250.0,5244,131,2.5,2.0,6,6468,25.87
+2025-02-04,Retargeting — cart abandonment,Carousel,280.0,5464,195,3.57,1.0,10,12330,44.04
+2025-02-05,Retargeting — cart abandonment,Carousel,278.0,7008,219,3.12,1.0,8,7944,28.58
+2025-02-06,Retargeting — cart abandonment,Carousel,234.0,5600,141,2.52,2.0,2,1754,7.5
+2025-02-07,Retargeting — cart abandonment,Carousel,277.0,5344,183,3.42,2.0,4,4196,15.15
+2025-02-08,Retargeting — cart abandonment,Carousel,264.0,5415,126,2.33,2.0,4,3252,12.32
+2025-02-09,Retargeting — cart abandonment,Carousel,263.0,6437,246,3.82,1.0,10,9660,36.73
+2025-02-10,Retargeting — cart abandonment,Carousel,288.0,5372,155,2.89,2.0,3,3549,12.32
+2025-02-11,Retargeting — cart abandonment,Carousel,289.0,7704,174,2.26,2.0,4,3232,11.18
+2025-02-12,Retargeting — cart abandonment,Carousel,268.0,7199,301,4.18,1.0,14,15414,57.51
+2025-02-13,Retargeting — cart abandonment,Carousel,261.0,7019,220,3.13,1.0,8,10744,41.16
+2025-02-14,Retargeting — cart abandonment,Carousel,223.0,5994,173,2.89,1.0,8,7592,34.04
+2025-02-15,Retargeting — cart abandonment,Carousel,230.0,5874,186,3.17,1.0,5,4130,17.96
+2025-02-16,Retargeting — cart abandonment,Carousel,212.0,4054,94,2.32,2.0,2,2580,12.17
+2025-02-17,Retargeting — cart abandonment,Carousel,240.0,4369,103,2.36,2.0,5,4630,19.29
+2025-02-18,Retargeting — cart abandonment,Carousel,254.0,7078,304,4.29,1.0,14,18368,72.31
+2025-02-19,Retargeting — cart abandonment,Carousel,273.0,5974,258,4.32,1.0,13,17212,63.05
+2025-02-20,Retargeting — cart abandonment,Carousel,235.0,5009,98,1.96,2.0,3,3957,16.84
+2025-02-21,Retargeting — cart abandonment,Carousel,240.0,6005,246,4.1,1.0,9,7470,31.12
+2025-02-22,Retargeting — cart abandonment,Carousel,230.0,6386,253,3.96,1.0,4,5048,21.95
+2025-02-23,Retargeting — cart abandonment,Carousel,237.0,4334,155,3.58,2.0,8,8032,33.89
+2025-02-24,Retargeting — cart abandonment,Carousel,281.0,5122,157,3.07,2.0,8,7288,25.94
+2025-02-25,Retargeting — cart abandonment,Carousel,253.0,5911,248,4.2,1.0,6,7674,30.33
+2025-02-26,Retargeting — cart abandonment,Carousel,244.0,4977,136,2.73,2.0,5,5315,21.78
+2025-02-27,Retargeting — cart abandonment,Carousel,262.0,6209,269,4.33,1.0,7,7343,28.03
+2025-02-28,Retargeting — cart abandonment,Carousel,297.0,7775,330,4.24,1.0,13,13689,46.09
+2025-03-01,Retargeting — cart abandonment,Carousel,296.0,5911,221,3.74,1.0,11,13222,44.67
+2025-03-02,Retargeting — cart abandonment,Carousel,256.0,5955,153,2.57,2.0,4,4092,15.98
+2025-03-03,Retargeting — cart abandonment,Carousel,271.0,6555,146,2.23,2.0,7,9170,33.84
+2025-03-04,Retargeting — cart abandonment,Carousel,273.0,6726,153,2.27,2.0,8,6432,23.56
+2025-03-05,Retargeting — cart abandonment,Carousel,280.0,6142,152,2.47,2.0,4,4692,16.76
+2025-03-06,Retargeting — cart abandonment,Carousel,297.0,8221,327,3.98,1.0,15,17775,59.85
+2025-03-07,Retargeting — cart abandonment,Carousel,250.0,4926,188,3.82,1.0,6,6738,26.95
+2025-03-08,Retargeting — cart abandonment,Carousel,209.0,4765,199,4.18,1.0,9,8145,38.97
+2025-03-09,Retargeting — cart abandonment,Carousel,251.0,5029,98,1.95,3.0,5,5155,20.54
+2025-03-10,Retargeting — cart abandonment,Carousel,278.0,7423,278,3.75,1.0,5,5640,20.29
+2025-03-11,Retargeting — cart abandonment,Carousel,232.0,5004,186,3.72,1.0,4,4316,18.6
+2025-03-12,Retargeting — cart abandonment,Carousel,260.0,6856,155,2.26,2.0,4,5404,20.78
+2025-03-13,Retargeting — cart abandonment,Carousel,240.0,6654,176,2.65,1.0,7,6489,27.04
+2025-03-14,Retargeting — cart abandonment,Carousel,221.0,5419,122,2.25,2.0,5,6635,30.02
+2025-03-15,Retargeting — cart abandonment,Carousel,205.0,5147,104,2.02,2.0,1,911,4.44
+2025-03-16,Retargeting — cart abandonment,Carousel,265.0,6299,171,2.71,2.0,7,7805,29.45
+2025-03-17,Retargeting — cart abandonment,Carousel,271.0,6689,138,2.06,2.0,4,4496,16.59
+2025-03-18,Retargeting — cart abandonment,Carousel,248.0,6247,118,1.89,2.0,5,4555,18.37
+2025-03-19,Retargeting — cart abandonment,Carousel,202.0,5119,188,3.67,1.0,9,10485,51.91
+2025-03-20,Retargeting — cart abandonment,Carousel,208.0,4764,104,2.18,2.0,2,2158,10.38
+2025-03-21,Retargeting — cart abandonment,Carousel,234.0,5186,210,4.05,1.0,5,6525,27.88
+2025-03-22,Retargeting — cart abandonment,Carousel,240.0,4646,173,3.72,1.0,5,6735,28.06
+2025-03-23,Retargeting — cart abandonment,Carousel,283.0,6104,192,3.15,1.0,4,4716,16.66
+2025-03-24,Retargeting — cart abandonment,Carousel,203.0,5048,143,2.83,1.0,2,1886,9.29
+2025-03-25,Retargeting — cart abandonment,Carousel,241.0,5065,171,3.38,1.0,6,7836,32.51
+2025-03-26,Retargeting — cart abandonment,Carousel,241.0,4630,105,2.27,2.0,2,2554,10.6
+2025-03-27,Retargeting — cart abandonment,Carousel,238.0,5330,145,2.72,2.0,7,8771,36.85
+2025-03-28,Retargeting — cart abandonment,Carousel,260.0,5452,132,2.42,2.0,5,4965,19.1
+2025-03-29,Retargeting — cart abandonment,Carousel,283.0,7867,236,3.0,1.0,5,6045,21.36
+2025-03-30,Retargeting — cart abandonment,Carousel,215.0,4640,125,2.69,2.0,2,2064,9.6
+2025-03-31,Retargeting — cart abandonment,Carousel,295.0,6958,156,2.24,2.0,7,6181,20.95
+2025-04-01,Retargeting — cart abandonment,Carousel,252.0,6142,143,2.33,2.0,6,7668,30.43
+2025-04-02,Retargeting — cart abandonment,Carousel,232.0,5966,266,4.46,1.0,9,8406,36.23
+2025-04-03,Retargeting — cart abandonment,Carousel,246.0,6801,162,2.38,2.0,7,7938,32.27
+2025-04-04,Retargeting — cart abandonment,Carousel,250.0,5448,224,4.11,1.0,7,7070,28.28
+2025-04-05,Retargeting — cart abandonment,Carousel,283.0,6712,166,2.47,2.0,7,9569,33.81
+2025-04-06,Retargeting — cart abandonment,Carousel,232.0,5652,109,1.93,2.0,4,4612,19.88
+2025-04-07,Retargeting — cart abandonment,Carousel,223.0,4487,91,2.03,2.0,2,2046,9.17
+2025-04-08,Retargeting — cart abandonment,Carousel,286.0,6005,174,2.9,2.0,4,5424,18.97
+2025-04-09,Retargeting — cart abandonment,Carousel,231.0,5024,144,2.87,2.0,6,4836,20.94
+2025-04-10,Retargeting — cart abandonment,Carousel,238.0,6091,153,2.51,2.0,4,4592,19.29
+2025-04-11,Retargeting — cart abandonment,Carousel,235.0,4267,131,3.07,2.0,2,2438,10.37
+2025-04-12,Retargeting — cart abandonment,Carousel,198.0,4285,163,3.8,1.0,4,5164,26.08
+2025-04-13,Retargeting — cart abandonment,Carousel,249.0,5592,110,1.97,2.0,5,5185,20.82
+2025-04-14,Retargeting — cart abandonment,Carousel,246.0,6259,206,3.29,1.0,9,10530,42.8
+2025-04-15,Retargeting — cart abandonment,Carousel,247.0,6502,208,3.2,1.0,7,6685,27.06
+2025-04-16,Retargeting — cart abandonment,Carousel,260.0,5583,214,3.83,1.0,8,11144,42.86
+2025-04-17,Retargeting — cart abandonment,Carousel,263.0,4895,129,2.64,2.0,4,5232,19.89
+2025-04-18,Retargeting — cart abandonment,Carousel,267.0,6946,289,4.16,1.0,6,8028,30.07
+2025-04-19,Retargeting — cart abandonment,Carousel,240.0,4998,127,2.54,2.0,4,4812,20.05
+2025-04-20,Retargeting — cart abandonment,Carousel,210.0,5732,155,2.7,1.0,3,3726,17.74
+2025-04-21,Retargeting — cart abandonment,Carousel,200.0,4713,117,2.48,2.0,6,7032,35.16
+2025-04-22,Retargeting — cart abandonment,Carousel,271.0,5496,149,2.71,2.0,8,7264,26.8
+2025-04-23,Retargeting — cart abandonment,Carousel,199.0,4411,179,4.06,1.0,3,3771,18.95
+2025-04-24,Retargeting — cart abandonment,Carousel,261.0,4761,201,4.22,1.0,8,9400,36.02
+2025-04-25,Retargeting — cart abandonment,Carousel,220.0,4029,160,3.97,1.0,5,4965,22.57
+2025-04-26,Retargeting — cart abandonment,Carousel,226.0,4880,151,3.09,1.0,6,5742,25.41
+2025-04-27,Retargeting — cart abandonment,Carousel,272.0,7585,246,3.24,1.0,6,5160,18.97
+2025-04-28,Retargeting — cart abandonment,Carousel,259.0,5428,213,3.92,1.0,7,6454,24.92
+2025-04-29,Retargeting — cart abandonment,Carousel,273.0,7277,237,3.26,1.0,8,9280,33.99
+2025-04-30,Retargeting — cart abandonment,Carousel,275.0,6198,161,2.6,2.0,8,7824,28.45
+2025-02-01,Lookalike 2% — cold audience,Video,354.0,6435,277,4.3,1.0,14,17262,48.76
+2025-02-02,Lookalike 2% — cold audience,Video,342.0,8664,218,2.52,2.0,9,11925,34.87
+2025-02-03,Lookalike 2% — cold audience,Video,310.0,8132,271,3.33,1.0,11,11693,37.72
+2025-02-04,Lookalike 2% — cold audience,Video,277.0,5067,111,2.19,2.0,5,6740,24.33
+2025-02-05,Lookalike 2% — cold audience,Video,330.0,7596,318,4.19,1.0,16,15424,46.74
+2025-02-06,Lookalike 2% — cold audience,Video,358.0,6956,308,4.43,1.0,14,17346,48.45
+2025-02-07,Lookalike 2% — cold audience,Video,305.0,6459,143,2.21,2.0,4,5404,17.72
+2025-02-08,Lookalike 2% — cold audience,Video,297.0,6901,167,2.42,2.0,4,4644,15.64
+2025-02-09,Lookalike 2% — cold audience,Video,273.0,6186,130,2.1,2.0,6,5184,18.99
+2025-02-10,Lookalike 2% — cold audience,Video,338.0,8500,247,2.91,1.0,5,4075,12.06
+2025-02-11,Lookalike 2% — cold audience,Video,359.0,9624,421,4.37,1.0,9,10575,29.46
+2025-02-12,Lookalike 2% — cold audience,Video,349.0,7832,316,4.03,1.0,6,7884,22.59
+2025-02-13,Lookalike 2% — cold audience,Video,386.0,10186,367,3.6,1.0,7,8722,22.6
+2025-02-14,Lookalike 2% — cold audience,Video,292.0,6104,185,3.03,2.0,5,5415,18.54
+2025-02-15,Lookalike 2% — cold audience,Video,330.0,8332,274,3.29,1.0,12,13272,40.22
+2025-02-16,Lookalike 2% — cold audience,Video,360.0,9098,264,2.9,1.0,4,5520,15.33
+2025-02-17,Lookalike 2% — cold audience,Video,367.0,9200,394,4.28,1.0,18,21582,58.81
+2025-02-18,Lookalike 2% — cold audience,Video,381.0,7665,141,1.84,3.0,6,5466,14.35
+2025-02-19,Lookalike 2% — cold audience,Video,352.0,8016,316,3.94,1.0,11,11715,33.28
+2025-02-20,Lookalike 2% — cold audience,Video,286.0,7415,194,2.62,1.0,10,12920,45.17
+2025-02-21,Lookalike 2% — cold audience,Video,281.0,6947,192,2.76,1.0,4,4628,16.47
+2025-02-22,Lookalike 2% — cold audience,Video,332.0,9032,242,2.68,1.0,5,4925,14.83
+2025-02-23,Lookalike 2% — cold audience,Video,336.0,7963,146,1.83,2.0,3,2733,8.13
+2025-02-24,Lookalike 2% — cold audience,Video,267.0,5816,241,4.14,1.0,9,7560,28.31
+2025-02-25,Lookalike 2% — cold audience,Video,262.0,7133,148,2.07,2.0,5,6290,24.01
+2025-02-26,Lookalike 2% — cold audience,Video,353.0,8357,211,2.52,2.0,9,9477,26.85
+2025-02-27,Lookalike 2% — cold audience,Video,300.0,7985,273,3.42,1.0,9,7200,24.0
+2025-02-28,Lookalike 2% — cold audience,Video,319.0,7257,301,4.15,1.0,6,8070,25.3
+2025-03-01,Lookalike 2% — cold audience,Video,382.0,8639,344,3.98,1.0,13,11024,28.86
+2025-03-02,Lookalike 2% — cold audience,Video,285.0,6026,218,3.62,1.0,8,10520,36.91
+2025-03-03,Lookalike 2% — cold audience,Video,356.0,8776,198,2.26,2.0,5,6045,16.98
+2025-03-04,Lookalike 2% — cold audience,Video,347.0,8291,289,3.49,1.0,13,16666,48.03
+2025-03-05,Lookalike 2% — cold audience,Video,298.0,5807,181,3.12,2.0,7,9254,31.05
+2025-03-06,Lookalike 2% — cold audience,Video,289.0,6095,215,3.53,1.0,4,4512,15.61
+2025-03-07,Lookalike 2% — cold audience,Video,287.0,5625,223,3.96,1.0,5,4460,15.54
+2025-03-08,Lookalike 2% — cold audience,Video,288.0,7730,153,1.98,2.0,6,8172,28.38
+2025-03-09,Lookalike 2% — cold audience,Video,361.0,9716,341,3.51,1.0,15,14085,39.02
+2025-03-10,Lookalike 2% — cold audience,Video,312.0,8627,212,2.46,1.0,7,6055,19.41
+2025-03-11,Lookalike 2% — cold audience,Video,338.0,7056,205,2.91,2.0,5,5675,16.79
+2025-03-12,Lookalike 2% — cold audience,Video,310.0,7398,244,3.3,1.0,5,5825,18.79
+2025-03-13,Lookalike 2% — cold audience,Video,304.0,8418,370,4.4,1.0,19,20197,66.44
+2025-03-14,Lookalike 2% — cold audience,Video,298.0,6281,247,3.93,1.0,9,9954,33.4
+2025-03-15,Lookalike 2% — cold audience,Video,327.0,6542,186,2.84,2.0,9,11700,35.78
+2025-03-16,Lookalike 2% — cold audience,Video,273.0,7439,245,3.29,1.0,9,8172,29.93
+2025-03-17,Lookalike 2% — cold audience,Video,372.0,8452,171,2.02,2.0,9,11178,30.05
+2025-03-18,Lookalike 2% — cold audience,Video,389.0,8528,213,2.5,2.0,6,4962,12.76
+2025-03-19,Lookalike 2% — cold audience,Video,267.0,5332,153,2.87,2.0,4,3540,13.26
+2025-03-20,Lookalike 2% — cold audience,Video,299.0,5482,165,3.01,2.0,8,7568,25.31
+2025-03-21,Lookalike 2% — cold audience,Video,271.0,7564,201,2.66,1.0,5,4435,16.37
+2025-03-22,Lookalike 2% — cold audience,Video,285.0,5415,131,2.42,2.0,3,3906,13.71
+2025-03-23,Lookalike 2% — cold audience,Video,351.0,8329,327,3.93,1.0,13,11180,31.85
+2025-03-24,Lookalike 2% — cold audience,Video,353.0,8284,158,1.91,2.0,5,5900,16.71
+2025-03-25,Lookalike 2% — cold audience,Video,376.0,8675,338,3.9,1.0,10,8870,23.59
+2025-03-26,Lookalike 2% — cold audience,Video,348.0,6870,232,3.38,2.0,9,8280,23.79
+2025-03-27,Lookalike 2% — cold audience,Video,362.0,8188,367,4.48,1.0,20,24780,68.45
+2025-03-28,Lookalike 2% — cold audience,Video,364.0,9963,240,2.41,2.0,9,9369,25.74
+2025-03-29,Lookalike 2% — cold audience,Video,294.0,8132,261,3.21,1.0,6,6486,22.06
+2025-03-30,Lookalike 2% — cold audience,Video,315.0,5934,170,2.86,2.0,5,4265,13.54
+2025-03-31,Lookalike 2% — cold audience,Video,269.0,5948,161,2.71,2.0,4,3340,12.42
+2025-04-01,Lookalike 2% — cold audience,Video,375.0,10034,385,3.84,1.0,7,9170,24.45
+2025-04-02,Lookalike 2% — cold audience,Video,329.0,7257,317,4.37,1.0,6,6366,19.35
+2025-04-03,Lookalike 2% — cold audience,Video,263.0,5954,179,3.01,1.0,4,5100,19.39
+2025-04-04,Lookalike 2% — cold audience,Video,263.0,6064,173,2.85,2.0,4,4428,16.84
+2025-04-05,Lookalike 2% — cold audience,Video,347.0,8989,252,2.8,1.0,5,5775,16.64
+2025-04-06,Lookalike 2% — cold audience,Video,266.0,5978,181,3.03,1.0,4,5508,20.71
+2025-04-07,Lookalike 2% — cold audience,Video,331.0,7858,193,2.46,2.0,8,8168,24.68
+2025-04-08,Lookalike 2% — cold audience,Video,357.0,7565,183,2.42,2.0,3,3957,11.08
+2025-04-09,Lookalike 2% — cold audience,Video,362.0,8562,168,1.96,2.0,3,2793,7.72
+2025-04-10,Lookalike 2% — cold audience,Video,307.0,6530,135,2.07,2.0,2,2204,7.18
+2025-04-11,Lookalike 2% — cold audience,Video,371.0,6770,157,2.32,2.0,3,3801,10.25
+2025-04-12,Lookalike 2% — cold audience,Video,301.0,7320,219,2.99,1.0,11,10065,33.44
+2025-04-13,Lookalike 2% — cold audience,Video,355.0,9108,194,2.13,2.0,6,4812,13.55
+2025-04-14,Lookalike 2% — cold audience,Video,380.0,7532,260,3.45,1.0,11,13464,35.43
+2025-04-15,Lookalike 2% — cold audience,Video,270.0,5608,244,4.35,1.0,9,10575,39.17
+2025-04-16,Lookalike 2% — cold audience,Video,312.0,8330,151,1.81,2.0,6,6036,19.35
+2025-04-17,Lookalike 2% — cold audience,Video,299.0,5746,112,1.95,3.0,2,2296,7.68
+2025-04-18,Lookalike 2% — cold audience,Video,287.0,6813,142,2.08,2.0,5,4660,16.24
+2025-04-19,Lookalike 2% — cold audience,Video,279.0,6231,275,4.41,1.0,10,8860,31.76
+2025-04-20,Lookalike 2% — cold audience,Video,307.0,7796,240,3.08,1.0,13,17914,58.35
+2025-04-21,Lookalike 2% — cold audience,Video,358.0,9803,278,2.84,1.0,11,14674,40.99
+2025-04-22,Lookalike 2% — cold audience,Video,345.0,7388,298,4.03,1.0,14,13272,38.47
+2025-04-23,Lookalike 2% — cold audience,Video,388.0,7214,302,4.19,1.0,12,14292,36.84
+2025-04-24,Lookalike 2% — cold audience,Video,347.0,6709,215,3.2,2.0,7,6930,19.97
+2025-04-25,Lookalike 2% — cold audience,Video,340.0,6473,128,1.98,3.0,5,6635,19.51
+2025-04-26,Lookalike 2% — cold audience,Video,366.0,7787,253,3.25,1.0,12,13020,35.57
+2025-04-27,Lookalike 2% — cold audience,Video,346.0,6551,247,3.77,1.0,13,11661,33.7
+2025-04-28,Lookalike 2% — cold audience,Video,350.0,9315,351,3.77,1.0,13,12636,36.1
+2025-04-29,Lookalike 2% — cold audience,Video,336.0,6919,182,2.63,2.0,8,6752,20.1
+2025-04-30,Lookalike 2% — cold audience,Video,344.0,7293,319,4.37,1.0,16,16224,47.16
+2025-02-01,Interest — skincare routine,Image,307.0,5998,203,3.38,2.0,6,6600,21.5
+2025-02-02,Interest — skincare routine,Image,310.0,8406,213,2.53,1.0,9,8883,28.65
+2025-02-03,Interest — skincare routine,Image,307.0,8563,273,3.19,1.0,11,10032,32.68
+2025-02-04,Interest — skincare routine,Image,398.0,8478,356,4.2,1.0,17,23749,59.67
+2025-02-05,Interest — skincare routine,Image,361.0,8888,330,3.71,1.0,14,11942,33.08
+2025-02-06,Interest — skincare routine,Image,387.0,9628,194,2.01,2.0,7,8904,23.01
+2025-02-07,Interest — skincare routine,Image,305.0,8333,370,4.44,1.0,12,12600,41.31
+2025-02-08,Interest — skincare routine,Image,335.0,8501,163,1.92,2.0,4,4728,14.11
+2025-02-09,Interest — skincare routine,Image,291.0,7594,181,2.38,2.0,7,8190,28.14
+2025-02-10,Interest — skincare routine,Image,342.0,9196,312,3.39,1.0,6,6564,19.19
+2025-02-11,Interest — skincare routine,Image,409.0,7386,255,3.45,2.0,8,10040,24.55
+2025-02-12,Interest — skincare routine,Image,321.0,6802,158,2.32,2.0,5,4195,13.07
+2025-02-13,Interest — skincare routine,Image,299.0,6830,140,2.05,2.0,4,4128,13.81
+2025-02-14,Interest — skincare routine,Image,397.0,7180,206,2.87,2.0,5,6140,15.47
+2025-02-15,Interest — skincare routine,Image,395.0,7491,312,4.16,1.0,16,22192,56.18
+2025-02-16,Interest — skincare routine,Image,306.0,7963,290,3.64,1.0,13,15548,50.81
+2025-02-17,Interest — skincare routine,Image,298.0,7654,213,2.78,1.0,8,10024,33.64
+2025-02-18,Interest — skincare routine,Image,340.0,7096,152,2.14,2.0,5,6565,19.31
+2025-02-19,Interest — skincare routine,Image,327.0,7366,244,3.31,1.0,4,4456,13.63
+2025-02-20,Interest — skincare routine,Image,347.0,7454,173,2.32,2.0,8,8392,24.18
+2025-02-21,Interest — skincare routine,Image,400.0,9969,263,2.64,2.0,13,11791,29.48
+2025-02-22,Interest — skincare routine,Image,308.0,6058,109,1.8,3.0,2,1810,5.88
+2025-02-23,Interest — skincare routine,Image,389.0,9745,387,3.97,1.0,15,16290,41.88
+2025-02-24,Interest — skincare routine,Image,297.0,8200,299,3.65,1.0,15,14310,48.18
+2025-02-25,Interest — skincare routine,Image,302.0,8050,332,4.12,1.0,15,17685,58.56
+2025-02-26,Interest — skincare routine,Image,293.0,5401,176,3.26,2.0,8,10840,37.0
+2025-02-27,Interest — skincare routine,Image,362.0,9867,280,2.84,1.0,13,13403,37.02
+2025-02-28,Interest — skincare routine,Image,331.0,8713,324,3.72,1.0,16,13184,39.83
+2025-03-01,Interest — skincare routine,Image,360.0,6831,247,3.62,1.0,5,6820,18.94
+2025-03-02,Interest — skincare routine,Image,338.0,7444,253,3.4,1.0,12,15540,45.98
+2025-03-03,Interest — skincare routine,Image,387.0,7980,299,3.75,1.0,15,15855,40.97
+2025-03-04,Interest — skincare routine,Image,367.0,9272,210,2.26,2.0,6,6420,17.49
+2025-03-05,Interest — skincare routine,Image,376.0,9201,309,3.36,1.0,10,10340,27.5
+2025-03-06,Interest — skincare routine,Image,363.0,7907,152,1.92,2.0,4,4380,12.07
+2025-03-07,Interest — skincare routine,Image,294.0,6521,236,3.62,1.0,8,6992,23.78
+2025-03-08,Interest — skincare routine,Image,332.0,9050,247,2.73,1.0,11,13497,40.65
+2025-03-09,Interest — skincare routine,Image,317.0,8441,219,2.59,1.0,9,11187,35.29
+2025-03-10,Interest — skincare routine,Image,345.0,9610,259,2.7,1.0,4,4444,12.88
+2025-03-11,Interest — skincare routine,Image,327.0,7407,309,4.17,1.0,15,20880,63.85
+2025-03-12,Interest — skincare routine,Image,355.0,9641,350,3.63,1.0,7,8491,23.92
+2025-03-13,Interest — skincare routine,Image,317.0,6137,160,2.61,2.0,7,7021,22.15
+2025-03-14,Interest — skincare routine,Image,327.0,9024,388,4.3,1.0,21,18711,57.22
+2025-03-15,Interest — skincare routine,Image,405.0,7804,238,3.05,2.0,12,10824,26.73
+2025-03-16,Interest — skincare routine,Image,337.0,7482,292,3.9,1.0,10,9770,28.99
+2025-03-17,Interest — skincare routine,Image,411.0,7499,221,2.95,2.0,7,7987,19.43
+2025-03-18,Interest — skincare routine,Image,380.0,8983,339,3.77,1.0,8,6920,18.21
+2025-03-19,Interest — skincare routine,Image,364.0,9346,269,2.88,1.0,14,14154,38.88
+2025-03-20,Interest — skincare routine,Image,420.0,9789,274,2.8,2.0,11,10571,25.17
+2025-03-21,Interest — skincare routine,Image,392.0,8795,251,2.85,2.0,12,14988,38.23
+2025-03-22,Interest — skincare routine,Image,421.0,9317,302,3.24,1.0,7,9639,22.9
+2025-03-23,Interest — skincare routine,Image,424.0,11329,239,2.11,2.0,5,4200,9.91
+2025-03-24,Interest — skincare routine,Image,359.0,9031,170,1.88,2.0,9,12564,35.0
+2025-03-25,Interest — skincare routine,Image,315.0,6991,247,3.53,1.0,4,4220,13.4
+2025-03-26,Interest — skincare routine,Image,291.0,5299,140,2.64,2.0,5,6845,23.52
+2025-03-27,Interest — skincare routine,Image,305.0,7087,293,4.13,1.0,7,9268,30.39
+2025-03-28,Interest — skincare routine,Image,413.0,8991,192,2.14,2.0,3,3930,9.52
+2025-03-29,Interest — skincare routine,Image,324.0,7526,214,2.84,2.0,5,6080,18.77
+2025-03-30,Interest — skincare routine,Image,409.0,9305,295,3.17,1.0,6,7182,17.56
+2025-03-31,Interest — skincare routine,Image,423.0,7838,269,3.43,2.0,6,7512,17.76
+2025-04-01,Interest — skincare routine,Image,317.0,7785,218,2.8,1.0,10,13040,41.14
+2025-04-02,Interest — skincare routine,Image,389.0,9295,286,3.08,1.0,11,11660,29.97
+2025-04-03,Interest — skincare routine,Image,388.0,6986,193,2.76,2.0,8,7872,20.29
+2025-04-04,Interest — skincare routine,Image,356.0,6715,229,3.41,2.0,5,4750,13.34
+2025-04-05,Interest — skincare routine,Image,340.0,8933,162,1.81,2.0,4,4976,14.64
+2025-04-06,Interest — skincare routine,Image,354.0,9090,315,3.47,1.0,12,14952,42.24
+2025-04-07,Interest — skincare routine,Image,349.0,8108,325,4.01,1.0,9,11448,32.8
+2025-04-08,Interest — skincare routine,Image,353.0,9242,292,3.16,1.0,5,4860,13.77
+2025-04-09,Interest — skincare routine,Image,357.0,8175,297,3.63,1.0,7,9681,27.12
+2025-04-10,Interest — skincare routine,Image,357.0,9595,351,3.66,1.0,15,13860,38.82
+2025-04-11,Interest — skincare routine,Image,410.0,8845,380,4.3,1.0,15,19260,46.98
+2025-04-12,Interest — skincare routine,Image,292.0,6529,188,2.88,2.0,6,5874,20.12
+2025-04-13,Interest — skincare routine,Image,396.0,11059,239,2.16,2.0,8,9248,23.35
+2025-04-14,Interest — skincare routine,Image,329.0,7027,139,1.98,2.0,4,4676,14.21
+2025-04-15,Interest — skincare routine,Image,368.0,8484,167,1.97,2.0,4,3432,9.33
+2025-04-16,Interest — skincare routine,Image,366.0,8763,239,2.73,2.0,5,6770,18.5
+2025-04-17,Interest — skincare routine,Image,364.0,9615,200,2.08,2.0,8,9368,25.74
+2025-04-18,Interest — skincare routine,Image,423.0,8665,232,2.68,2.0,8,9512,22.49
+2025-04-19,Interest — skincare routine,Image,391.0,8479,277,3.27,1.0,13,17095,43.72
+2025-04-20,Interest — skincare routine,Image,362.0,8055,168,2.09,2.0,3,3273,9.04
+2025-04-21,Interest — skincare routine,Image,307.0,8426,268,3.18,1.0,11,14047,45.76
+2025-04-22,Interest — skincare routine,Image,388.0,9570,269,2.81,1.0,13,16705,43.05
+2025-04-23,Interest — skincare routine,Image,297.0,7973,240,3.01,1.0,7,6496,21.87
+2025-04-24,Interest — skincare routine,Image,325.0,8501,163,1.92,2.0,5,5795,17.83
+2025-04-25,Interest — skincare routine,Image,355.0,6773,267,3.94,1.0,11,15147,42.67
+2025-04-26,Interest — skincare routine,Image,315.0,8588,214,2.49,1.0,9,10548,33.49
+2025-04-27,Interest — skincare routine,Image,398.0,7333,141,1.92,3.0,4,3460,8.69
+2025-04-28,Interest — skincare routine,Image,359.0,7747,151,1.95,2.0,6,7434,20.71
+2025-04-29,Interest — skincare routine,Image,288.0,5206,163,3.13,2.0,7,9317,32.35
+2025-04-30,Interest — skincare routine,Image,326.0,8332,202,2.42,2.0,5,6045,18.54
+2025-02-01,Dermat recommended — UGC,Video,174.0,4385,116,2.65,2.0,4,5136,29.52
+2025-02-02,Dermat recommended — UGC,Video,218.0,5692,147,2.58,1.0,2,2124,9.74
+2025-02-03,Dermat recommended — UGC,Video,214.0,5146,195,3.79,1.0,7,7490,35.0
+2025-02-04,Dermat recommended — UGC,Video,173.0,4809,148,3.08,1.0,5,6405,37.02
+2025-02-05,Dermat recommended — UGC,Video,170.0,4529,104,2.3,2.0,2,1778,10.46
+2025-02-06,Dermat recommended — UGC,Video,191.0,3652,80,2.19,2.0,2,1714,8.97
+2025-02-07,Dermat recommended — UGC,Video,203.0,3741,106,2.83,2.0,2,1764,8.69
+2025-02-08,Dermat recommended — UGC,Video,207.0,4638,136,2.93,2.0,6,7248,35.01
+2025-02-09,Dermat recommended — UGC,Video,209.0,5379,146,2.71,1.0,5,5525,26.44
+2025-02-10,Dermat recommended — UGC,Video,242.0,4356,82,1.88,3.0,1,838,3.46
+2025-02-11,Dermat recommended — UGC,Video,241.0,6644,130,1.96,2.0,5,6140,25.48
+2025-02-12,Dermat recommended — UGC,Video,246.0,6123,140,2.29,2.0,7,6468,26.29
+2025-02-13,Dermat recommended — UGC,Video,219.0,3959,112,2.83,2.0,4,5164,23.58
+2025-02-14,Dermat recommended — UGC,Video,241.0,6145,211,3.43,1.0,8,8920,37.01
+2025-02-15,Dermat recommended — UGC,Video,181.0,3528,102,2.89,2.0,4,4892,27.03
+2025-02-16,Dermat recommended — UGC,Video,186.0,3870,111,2.87,2.0,3,3213,17.27
+2025-02-17,Dermat recommended — UGC,Video,232.0,5807,197,3.39,1.0,5,4750,20.47
+2025-02-18,Dermat recommended — UGC,Video,221.0,5850,127,2.17,2.0,2,1728,7.82
+2025-02-19,Dermat recommended — UGC,Video,247.0,5989,243,4.06,1.0,11,9086,36.79
+2025-02-20,Dermat recommended — UGC,Video,207.0,4581,114,2.49,2.0,4,4216,20.37
+2025-02-21,Dermat recommended — UGC,Video,196.0,3951,110,2.78,2.0,5,6605,33.7
+2025-02-22,Dermat recommended — UGC,Video,233.0,6096,223,3.66,1.0,7,6489,27.85
+2025-02-23,Dermat recommended — UGC,Video,233.0,5252,209,3.98,1.0,6,5322,22.84
+2025-02-24,Dermat recommended — UGC,Video,221.0,6000,176,2.93,1.0,3,3399,15.38
+2025-02-25,Dermat recommended — UGC,Video,228.0,5277,191,3.62,1.0,7,7525,33.0
+2025-02-26,Dermat recommended — UGC,Video,207.0,3890,137,3.52,2.0,5,5140,24.83
+2025-02-27,Dermat recommended — UGC,Video,202.0,5107,160,3.13,1.0,4,5464,27.05
+2025-02-28,Dermat recommended — UGC,Video,250.0,6179,217,3.51,1.0,8,6920,27.68
+2025-03-01,Dermat recommended — UGC,Video,241.0,4960,104,2.1,2.0,3,2490,10.33
+2025-03-02,Dermat recommended — UGC,Video,244.0,5941,160,2.69,2.0,5,4060,16.64
+2025-03-03,Dermat recommended — UGC,Video,191.0,3469,71,2.05,3.0,3,3096,16.21
+2025-03-04,Dermat recommended — UGC,Video,205.0,4891,100,2.04,2.0,4,5356,26.13
+2025-03-05,Dermat recommended — UGC,Video,220.0,5498,132,2.4,2.0,6,8004,36.38
+2025-03-06,Dermat recommended — UGC,Video,210.0,5062,136,2.69,2.0,2,2460,11.71
+2025-03-07,Dermat recommended — UGC,Video,170.0,3786,135,3.57,1.0,5,5890,34.65
+2025-03-08,Dermat recommended — UGC,Video,236.0,4949,111,2.24,2.0,4,4528,19.19
+2025-03-09,Dermat recommended — UGC,Video,230.0,6144,149,2.43,2.0,2,2214,9.63
+2025-03-10,Dermat recommended — UGC,Video,180.0,4738,134,2.83,1.0,5,6995,38.86
+2025-03-11,Dermat recommended — UGC,Video,216.0,4587,164,3.58,1.0,8,6424,29.74
+2025-03-12,Dermat recommended — UGC,Video,213.0,3859,130,3.37,2.0,3,2877,13.51
+2025-03-13,Dermat recommended — UGC,Video,222.0,5146,206,4.0,1.0,8,8904,40.11
+2025-03-14,Dermat recommended — UGC,Video,239.0,5686,253,4.45,1.0,11,13596,56.89
+2025-03-15,Dermat recommended — UGC,Video,183.0,3315,80,2.41,2.0,3,3870,21.15
+2025-03-16,Dermat recommended — UGC,Video,251.0,4861,195,4.01,1.0,4,5416,21.58
+2025-03-17,Dermat recommended — UGC,Video,243.0,4929,163,3.31,1.0,6,6858,28.22
+2025-03-18,Dermat recommended — UGC,Video,188.0,4919,219,4.45,1.0,11,10802,57.46
+2025-03-19,Dermat recommended — UGC,Video,234.0,4738,155,3.27,2.0,5,5120,21.88
+2025-03-20,Dermat recommended — UGC,Video,198.0,4074,141,3.46,1.0,5,6290,31.77
+2025-03-21,Dermat recommended — UGC,Video,196.0,4153,115,2.77,2.0,4,3896,19.88
+2025-03-22,Dermat recommended — UGC,Video,180.0,4405,111,2.52,2.0,4,5024,27.91
+2025-03-23,Dermat recommended — UGC,Video,170.0,3914,143,3.65,1.0,4,5184,30.49
+2025-03-24,Dermat recommended — UGC,Video,250.0,5263,124,2.36,2.0,4,4952,19.81
+2025-03-25,Dermat recommended — UGC,Video,209.0,4075,90,2.21,2.0,2,2662,12.74
+2025-03-26,Dermat recommended — UGC,Video,245.0,5332,222,4.16,1.0,7,9569,39.06
+2025-03-27,Dermat recommended — UGC,Video,231.0,4262,117,2.75,2.0,5,4555,19.72
+2025-03-28,Dermat recommended — UGC,Video,193.0,4598,102,2.22,2.0,4,4096,21.22
+2025-03-29,Dermat recommended — UGC,Video,184.0,4465,125,2.8,1.0,5,5355,29.1
+2025-03-30,Dermat recommended — UGC,Video,197.0,4502,108,2.4,2.0,5,5920,30.05
+2025-03-31,Dermat recommended — UGC,Video,180.0,3835,142,3.7,1.0,4,5428,30.16
+2025-04-01,Dermat recommended — UGC,Video,173.0,4534,113,2.49,2.0,3,3507,20.27
+2025-04-02,Dermat recommended — UGC,Video,211.0,4766,200,4.2,1.0,10,13580,64.36
+2025-04-03,Dermat recommended — UGC,Video,211.0,4572,167,3.65,1.0,4,3592,17.02
+2025-04-04,Dermat recommended — UGC,Video,178.0,3520,107,3.04,2.0,2,2678,15.04
+2025-04-05,Dermat recommended — UGC,Video,229.0,5834,232,3.98,1.0,4,3356,14.66
+2025-04-06,Dermat recommended — UGC,Video,169.0,3377,142,4.2,1.0,3,2808,16.62
+2025-04-07,Dermat recommended — UGC,Video,239.0,5436,240,4.42,1.0,8,7808,32.67
+2025-04-08,Dermat recommended — UGC,Video,212.0,4286,109,2.54,2.0,3,4089,19.29
+2025-04-09,Dermat recommended — UGC,Video,208.0,5363,169,3.15,1.0,9,9405,45.22
+2025-04-10,Dermat recommended — UGC,Video,203.0,5192,98,1.89,2.0,4,3804,18.74
+2025-04-11,Dermat recommended — UGC,Video,218.0,4584,162,3.53,1.0,5,5835,26.77
+2025-04-12,Dermat recommended — UGC,Video,228.0,4522,142,3.14,2.0,4,4852,21.28
+2025-04-13,Dermat recommended — UGC,Video,220.0,4984,219,4.39,1.0,5,6400,29.09
+2025-04-14,Dermat recommended — UGC,Video,170.0,4004,84,2.1,2.0,3,3918,23.05
+2025-04-15,Dermat recommended — UGC,Video,232.0,4466,138,3.09,2.0,3,4062,17.51
+2025-04-16,Dermat recommended — UGC,Video,188.0,3387,116,3.42,2.0,3,4053,21.56
+2025-04-17,Dermat recommended — UGC,Video,250.0,6378,161,2.52,2.0,4,5216,20.86
+2025-04-18,Dermat recommended — UGC,Video,216.0,5205,105,2.02,2.0,2,1874,8.68
+2025-04-19,Dermat recommended — UGC,Video,178.0,3930,89,2.26,2.0,4,5464,30.7
+2025-04-20,Dermat recommended — UGC,Video,170.0,4722,196,4.15,1.0,5,5715,33.62
+2025-04-21,Dermat recommended — UGC,Video,237.0,5874,166,2.83,1.0,4,3720,15.7
+2025-04-22,Dermat recommended — UGC,Video,209.0,4784,204,4.26,1.0,5,5255,25.14
+2025-04-23,Dermat recommended — UGC,Video,242.0,6209,134,2.16,2.0,7,7966,32.92
+2025-04-24,Dermat recommended — UGC,Video,169.0,3525,141,4.0,1.0,6,6966,41.22
+2025-04-25,Dermat recommended — UGC,Video,171.0,4156,154,3.71,1.0,8,8728,51.04
+2025-04-26,Dermat recommended — UGC,Video,196.0,3912,158,4.04,1.0,7,8267,42.18
+2025-04-27,Dermat recommended — UGC,Video,168.0,3325,138,4.15,1.0,4,5524,32.88
+2025-04-28,Dermat recommended — UGC,Video,182.0,4545,166,3.65,1.0,8,7720,42.42
+2025-04-29,Dermat recommended — UGC,Video,203.0,4611,93,2.02,2.0,4,3552,17.5
+2025-04-30,Dermat recommended — UGC,Video,211.0,4946,107,2.16,2.0,4,5276,25.0
