@@ -46,7 +46,7 @@ C:\Chosen-Marketing-Dashboard\
 │
 ├── app.py                          # Main dashboard — all 5 pages + sidebar
 ├── load_data.py                    # Data ingestion, cleaning, SQLite loader
-├── utm_normalizer.py.py                         # UTM normalization fix
+├── utm_normalizer.py               # UTM normalization fix
 │
 ├── marketing_dashboard.db          # SQLite database (1,056 KB) — 4 tables
 │
@@ -169,7 +169,7 @@ python tests/test_null_counts.py      # Null counts across all tables
 
 ```bash
 # 1. Navigate to project folder
-cd C:\dashboard
+cd C:\Chosen-Marketing-Dashboard
 
 # 2. Activate virtual environment
 venv\Scripts\activate
@@ -192,13 +192,13 @@ Opens at → `http://localhost:8501`
 
 | Phase | Status | Description |
 |-------|--------|-------------|
-| 1 |   SQLite DB created with 4 tables |
-| 2 |   Data cleaned — dates, UTMs, nulls |
-| 3 |   5-page dashboard structure planned |
-| 4 |   25 SQL queries written and verified |
-| 5 |   Streamlit + Plotly installed |
-| 6 |   All 5 pages built and styled |
-| 7 |   Deploy to Streamlit Cloud |
+| 1 |  ✅ SQLite DB created with 4 tables |
+| 2 |  ✅ Data cleaned — dates, UTMs, nulls |
+| 3 |  ✅  5-page dashboard structure planned |
+| 4 |  ✅  25 SQL queries written and verified |
+| 5 |  ✅ Streamlit + Plotly installed |
+| 6 |  ✅  All 5 pages built and styled |
+| 7 |  ✅ Deployed to Streamlit Cloud | [Live Demo](https://chosen-marketing-dashboard-ohwhdynjwhv7ebyixgq8ow.streamlit.app/) |
 
 ---
 
