@@ -5,6 +5,20 @@
 
 ---
 
+## The Core Insight
+
+```
+                  Platform Reported    Shopify Actual
+Google Ads              0.82×              5.15×
+Meta Ads               27.10×              3.92×
+```
+
+Meta overclaims ROAS by ~6.9×. Google underclaims by ~6.3×.  
+Every ROAS figure in this dashboard is verified against Shopify order revenue —  
+not taken from the ad platform at face value.
+
+---
+
 ## Overview
 
 Most D2C brands rely on platform-reported ROAS — which is almost always wrong. This dashboard solves that by joining ad spend data directly against Shopify orders using UTM attribution, exposing the gap between what platforms claim and what actually converted.
@@ -114,20 +128,6 @@ Campaign-level P&L with attribution truth.
 - Spend vs Revenue by campaign
 - Platform reported vs Shopify-verified ROAS — split by Google and Meta
 - Full sortable campaign table
-
----
-
-## The Core Insight
-
-```
-                  Platform Reported    Shopify Actual
-Google Ads              0.82×              5.15×
-Meta Ads               27.10×              3.92×
-```
-
-Meta overclaims ROAS by ~6.9×. Google underclaims by ~6.3×.  
-Every ROAS figure in this dashboard is verified against Shopify order revenue —  
-not taken from the ad platform at face value.
 
 ---
 
