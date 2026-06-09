@@ -19,6 +19,14 @@ not taken from the ad platform at face value.
 
 ---
 
+## Screenshots
+
+![Executive Summary](screenshots/executive-summary.png)
+![Channel Performance](screenshots/channel-performance.png)
+![Campaign Deep Dive](screenshots/campaign-deepdive.png)
+
+---
+
 ## Overview
 
 Most D2C brands rely on platform-reported ROAS — which is almost always wrong. This dashboard solves that by joining ad spend data directly against Shopify orders using UTM attribution, exposing the gap between what platforms claim and what actually converted.
