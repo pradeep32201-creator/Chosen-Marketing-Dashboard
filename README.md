@@ -2,7 +2,7 @@
 
 > A production-grade marketing analytics dashboard built for a D2C skincare brand.  
 > Cross-references Google Ads, Meta Ads, and Shopify data to surface ground-truth ROAS and funnel insights.
-
+> 🔴 Live Demo: [chosen-marketing-dashboard](https://chosen-marketing-dashboard-ohwhdynjwhv7ebyixgq8ow.streamlit.app/)
 ---
 
 ## The Core Insight
@@ -50,7 +50,7 @@ Pandas             Data wrangling
 ## File Structure
 
 ```
-C:\Chosen-Marketing-Dashboard\
+Chosen-Marketing-Dashboard\
 │
 ├── app.py                          # Main dashboard — all 5 pages + sidebar
 ├── load_data.py                    # Data ingestion, cleaning, SQLite loader
@@ -200,7 +200,7 @@ Opens at → `http://localhost:8501`
 
 | Phase | Status | Description |
 |-------|--------|-------------|
-| 1 | ✅ | QLite DB created with 4 tables |
+| 1 | ✅ | SQLite DB created with 4 tables |
 | 2 | ✅ | Data cleaned — dates, UTMs, nulls |
 | 3 | ✅ | 5-page dashboard structure planned |
 | 4 | ✅ | 25 SQL queries written and verified |
