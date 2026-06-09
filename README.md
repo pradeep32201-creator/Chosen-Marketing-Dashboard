@@ -200,14 +200,18 @@ Opens at → `http://localhost:8501`
 
 | Phase | Status | Description |
 |-------|--------|-------------|
-| 1 |  ✅ SQLite DB created with 4 tables |
-| 2 |  ✅ Data cleaned — dates, UTMs, nulls |
-| 3 |  ✅  5-page dashboard structure planned |
-| 4 |  ✅  25 SQL queries written and verified |
-| 5 |  ✅ Streamlit + Plotly installed |
-| 6 |  ✅  All 5 pages built and styled |
-| 7 |  ✅ Deployed to Streamlit Cloud | [Live Demo](https://chosen-marketing-dashboard-ohwhdynjwhv7ebyixgq8ow.streamlit.app/) |
+| 1 | ✅ | QLite DB created with 4 tables |
+| 2 | ✅ | Data cleaned — dates, UTMs, nulls |
+| 3 | ✅ | 5-page dashboard structure planned |
+| 4 | ✅ | 25 SQL queries written and verified |
+| 5 | ✅ | Streamlit + Plotly installed |
+| 6 | ✅ | All 5 pages built and styled |
+| 7 | ✅ | Deployed to Streamlit Cloud — [Live Demo](https://chosen-marketing-dashboard-ohwhdynjwhv7ebyixgq8ow.streamlit.app/) |
 
 ---
 
-*Built by — Pradeep
+## Author
+
+**Pradeep** · Data Analyst  
+📍 Hisar, Haryana &nbsp;|&nbsp; 🔗 [GitHub](https://github.com/pradeep32201-creator) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/pradeep-2350953a8/)
+
