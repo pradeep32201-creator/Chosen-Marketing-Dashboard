@@ -28,11 +28,11 @@ Pandas             Data wrangling
 ## File Structure
 
 ```
-C:\dashboard\
+C:\Chosen-Marketing-Dashboard\
 │
 ├── app.py                          # Main dashboard — all 5 pages + sidebar
 ├── load_data.py                    # Data ingestion, cleaning, SQLite loader
-├── fix2.py                         # UTM normalization fix
+├── utm_normalizer.py.py                         # UTM normalization fix
 │
 ├── marketing_dashboard.db          # SQLite database (1,056 KB) — 4 tables
 │
