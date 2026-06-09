@@ -177,7 +177,7 @@ python tests/test_null_counts.py      # Null counts across all tables
 
 ```bash
 # 1. Navigate to project folder
-cd C:\Chosen-Marketing-Dashboard
+cd Chosen-Marketing-Dashboard
 
 # 2. Activate virtual environment
 venv\Scripts\activate
